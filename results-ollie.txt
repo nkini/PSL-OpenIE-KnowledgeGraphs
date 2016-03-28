@@ -1,0 +1,625 @@
+Bananas are an excellent source of potassium.
+0.93: (Bananas; are an excellent source of; potassium)
+
+Esaka and six other top executives will quit to take responsibility for 67.28 million yen in payoffs to corporate racketeer Ryuichi Koike, 54.
+0.854: (Esaka and six other top executives; will quit to take responsibility for; 67.28 million yen)
+0.798: (Esaka and six other top executives; will quit to take; responsibility)
+0.796: (Esaka and six other top executives; will quit to take responsibility to; corporate racketeer Ryuichi Koike , 54)
+0.739: (responsibility; to be take for; 67.28 million yen)
+0.708: (responsibility; to take to be; corporate racketeer Ryuichi Koike , 54)
+
+He died en route to hospital.
+0.866: (He; died en; route)
+
+In previous games, Edwards believes that defenders were pressing, trying to overcompensate for the lack of certainty about the system by leaving their assignments to attempt a big play.
+0.689: (Edwards; believes in; previous games)
+
+It didn't specify which goods in either case.
+No extractions found.
+
+The committee is planning to hear from him this month.
+0.619: (The committee; is planning to hear from; him)
+
+The first photograph of the fatal crash in which Diana, Princess of Wales, died appeared on the front page of Bild Zeitung Monday.
+0.937: (The first photograph of the fatal crash; appeared on; the front page of Bild Zeitung Monday)
+0.726: (The first photograph of the fatal crash; appeared in; the front page of Bild Zeitung Monday)
+
+Tropical Storm Edouard will meander about 125 miles off the Georgia coast causing surf to build along parts of the Southeast Coast.
+No extractions found.
+
+The first batter he faced, Carl Everett, singled.
+No extractions found.
+
+If his use of the Web to create art sounds highfalutin, Koplowitz begs to differ.
+No extractions found.
+
+The p53 protein is known to work as a genetic switch, binding to various sites along the DNA of cells and switching on nearby genes, a process called transactivation.
+0.703: (The p53 protein; is known; a process called transactivation)
+
+Calcavecchia has looked steady recently, finishing in the top 35 in three of his last four starts, including a seventh-place finish at last month's PGA Championship.
+0.718: (Calcavecchia; has looked steady recently finishing in; the top 35)
+0.649: (Calcavecchia; has looked steady recently finishing in; three of his last four starts)
+0.272: (last; four starts including; a seventh-place finish)
+
+There should be about 3 cups vegetables chopped medium fine.
+0.796: (about 3 cups vegetables; chopped; medium fine)
+
+Politicians, historians, locals and the victims' families are grappling with how the site should be preserved.
+No extractions found.
+
+He didn't quite understand what I was getting at, or so he claimed.
+No extractions found.
+
+Why does this "moment", to use a term bandied about by designers, call for an excess of clothes rendered in guipure lace, with ruffles, ribbons or other frilly edging, in polka-dotted or liquid silks or with lingerie-style details ? $ $ $ Still, traders said they expect investors to look for opportunities to buy temporarily depressed big-company shares, which have outperformed those of smaller companies for the past 2 1/2 years.
+0.858: (investors; to look for; opportunities to buy temporarily depressed big-company shares ,)
+0.752: (a term; be bandied by; designers)
+0.655: (clothes; be rendered in; guipure lace)
+0.585: (this "moment"; does to use ? $ $ $ Still in; polka-dotted or liquid silks or with)
+0.568: (designers; be call for; an excess of clothes)
+0.54: (this "moment"; does to use ? $ $ $ Still; a term bandied about by designers , call for an excess of clothes)
+0.519: (this "moment"; does to use ? $ $ $ Still with; ruffles , ribbons or other frilly edging)
+0.409: (this "moment"; does to use a term bandied about by designers , call for an excess of clothes rendered in guipure lace Still in; polka-dotted or liquid silks or with)
+0.346: (this "moment"; does to use a term bandied about by designers , call for an excess of clothes rendered in guipure lace Still with; ruffles , ribbons or other frilly edging)
+
+But within seconds, his smile had receded and his tone had again turned serious.
+0.562: (his smile; had receded had within; seconds)
+0.562: (his tone; had receded had within; seconds)
+
+In the last four games of the losing streak, they surrendered deciding goals in the last minutes of the half or game three times and were blanked, 4-0, by Tampa Bay.
+0.825: (they; surrendered in; the last four games of the losing streak)
+0.8: (they; surrendered deciding; goals)
+0.699: (they; were blanked by; Tampa Bay)
+
+In the most world-renowned episode, seven frantic photographers on motorbikes chased Princess Diana and her companion, Dodi al-Fayed, after leaving the Ritz hotel in Paris.
+0.641: (the Ritz hotel; be leaving in; Paris)
+
+The need for strong federal action to protect the right to vote and the integrity of future national elections could not have been clearer.
+No extractions found.
+
+Chicken minced very finely may be added if desired.
+No extractions found.
+
+That, in itself, isn't awful.
+No extractions found.
+
+One of the most disturbing factors for Rohrabacher is that there has never been any formal apology from any of the Japanese companies.
+No extractions found.
+
+Hose contracted inhalation anthrax while handling mail for the State Department in Sterling, Va.
+0.92: (Hose; contracted inhalation; anthrax)[enabler=while handling mail for the State Department in Sterling , Va]
+0.694: (mail; be handling for; the State Department)
+
+Police departments launch massive enforcement plans to combat road rage.
+No extractions found.
+
+Still there is lingering concern that further earthquakes could follow, leading to some "transportation problems and mud-slides in Colombia", according to Tim Fallar, president of The Fallar Co. in West Harrison, New York.
+0.575: (Tim Fallar; be president of; The Fallar Co.)
+
+The Cardinals considered very seriously drafting Purdue fullback Mike Alstott with their second-round pick a year ago.
+0.606: (The Cardinals; considered very seriously drafting a year ago; Purdue fullback Mike Alstott)
+0.45: (Purdue fullback Mike Alstott; be very seriously drafting a year ago with; their second-round pick)
+0.445: (The Cardinals; considered very seriously drafting Purdue fullback Mike Alstott a year ago with; their second-round pick)
+
+At least that was the case for linebacker Brendon Ayanbadejo at the Rose Bowl on Saturday.
+No extractions found.
+
+She was a little anxious early on.
+0.461: (She; was early on; anxious)
+
+Hydra, of Cambridge, Mass., is named after a pond-dwelling creature that can grow two wholes after being sliced in half.
+0.925: (Hydra , of Cambridge; is named after; a pond-dwelling creature that can grow two wholes after being sliced in half)
+
+Yet other studies point to fetal exposure to environmental toxins like lead, cigarettes and alcohol.
+0.739: (other studies; Yet point to fetal; exposure)
+
+For the major airlines, including Fort Worth-based American, it was as if an artery had been cut.
+0.656: (it; was for; the major airlines)[enabler=as if an artery had been cut]
+
+The show is scheduled to be filmed in Austin till November, when MTV will decide whether to continue "Austin Stories", for a full season.
+No extractions found.
+
+Even as those stocks slumped, smaller stocks rallied, pushing the Russell and Nasdaq to records.
+0.647: (smaller stocks; rallied pushing; the Russell and Nasdaq)
+
+Remove the yolks carefully, mash them very fanE$ and season sparely with mustard, vinegar, salt, pepper and a tablespoonful of melted butter.
+No extractions found.
+
+Since the report was prepared, however, the energy market has declined and the number of possible buyers has dwindled, diminishing the value of those assets, analysts say.
+0.583: (the energy market; has has dwindled diminishing; the value of those assets)[attrib=analysts say]
+0.583: (the number of possible buyers; has has dwindled diminishing; the value of those assets)[attrib=analysts say]
+
+Are the awards just an excuse to haul the stars out in finery given to them by designers?
+0.752: (finery; be given by; designers)
+0.713: (finery; be given to; them)
+
+You should probably just go online.
+No extractions found.
+
+Or balanced on the tip of the tongue.
+No extractions found.
+
+Efforts to reach Johnson were unsuccessful.
+0.752: (Efforts to reach Johnson; were; unsuccessful)
+
+Lee Janzen IF PUSHED TO THE WALL, ISRAEL MIGHT FIRE NUKES That earned him the respect of analysts and investors, though the public remains skeptical.
+0.585: (the public; remains; skeptical)
+0.433: (Lee Janzen; be PUSHED to; THE WALL)[enabler=though the public remains skeptical]
+
+There were also searches of two warehouses owned by the firms in Schleswig-Holstein state and the office of the firms' tax adviser in Hamburg.
+No extractions found.
+
+They are moving to install side air bags to provide more protection to the head and chest.
+0.757: (They; are moving to install; side air bags)
+0.695: (more protection; to provide to be; the head and chest)
+
+McDaniel postponed ruling on Reilly's motion and also on a defense motion to move the trial out of Middlesex County because of the publicity the case has received.
+0.855: (McDaniel; postponed ruling also on; a defense motion to move the trial out of Middlesex County)
+0.826: (McDaniel; postponed because of; the publicity the case has received)
+0.714: (McDaniel; postponed ruling also on; Reilly 's motion)
+
+Moreover, he said that foreign students spend an estimated $ 11 billion a year for tuition and rent, not to mention items ranging from jeans to pizzas.
+0.758: (items; ranging from; jeans)
+0.452: (foreign students; spend an estimated $ 11 billion a year for tuition and rent , not an estimated $ 11 billion a year for tuition and rent to mention; items ranging from jeans to pizzas)[attrib=he Moreover said]
+
+Next up on the politics-and-calories calendar is a Buell dinner Monday for Chellie Pingree, the Dems' Maine senatorial candidate.
+0.476: (a Buell dinner; be Maine senatorial candidate of; the Dems)
+
+The group's attacks on the Kurdish leadership give it common cause with Saddam Hussein, though a firm link with the Iraqi dictator has not been established.
+0.793: (The group 's attacks; give; common cause)[enabler=though a firm link with the Iraqi dictator has not been established]
+
+An online bidder in Boerne paid $ 525 for a 20-inch Sony television set that retails at less than $ 350 new.
+0.913: (An online bidder; paid $ 525 for; a 20-inch Sony television set)
+0.459: (20-inch; Sony television set that; retails)
+
+A year ago, three-fifths of Americans said the government had done enough to protect them against another terrorist attack ; now just two-fifths do.
+0.786: (the government; had done enough to protect them against; another terrorist attack)[attrib=three-fifths of Americans A year ago said]
+0.785: (the government; had done; enough)[attrib=three-fifths of Americans A year ago said]
+0.721: (the government; had done enough to protect; them)[attrib=three-fifths of Americans A year ago said]
+0.545: (them; to be protect against; another terrorist attack)
+
+And as city officials scrambled to recruit new foster parents, they found themselves struggling to find homes for teen-agers, children suffering from psychological disorders, young mothers with babies and large groups of siblings.
+0.83: (themselves; to find; homes)
+0.685: (children; suffering from; psychological disorders)
+0.673: (city officials; scrambled to recruit; new foster parents)
+0.597: (themselves; struggling; young mothers)
+0.441: (young; be mothers with; babies and large groups of siblings)
+0.437: (themselves; struggling young mothers with babies and large groups of siblings to find; homes)
+0.41: (large; be groups of; siblings)
+
+They sweet-talked, cajoled, and begged people to come talk.
+0.926: (They; begged; people to come talk)
+
+Seagram shares rose C$ 0.25 to C$ 50.30 in midmorning Toronto trading and rose 3/16 to 36 3/16 in New York.
+0.832: (Seagram shares; rose 3/16 to; 36 3/16)
+0.804: (3/16; be rose to; 36 3/16)
+0.708: (Seagram shares; rose; 3/16)
+
+More than 30 years ago, when Ekman first set out to determine whether facial expressions are innate or learned, he was derided by esteemed social scientists, including the famous anthropologist Margaret Mead.
+0.723: (he; More than 30 years ago was derided by; esteemed social scientists)
+
+Television pictures showed police officers climbing over the roof and entering the offices of two related companies, Tatari Design and Tatex Trading G.m.b.H., in Fitzbek, a village 35 miles from Hamburg.
+0.667: (police officers; entering; the offices of two related companies)[attrib=Television pictures showed]
+0.59: (police officers; climbing over; the roof)[attrib=Television pictures showed]
+
+The number of passengers on Lufthansa's domestic routes declined 5.5 percent in the first half, even as overall passenger numbers rose 3 percent.
+0.877: (The number of passengers; declined 5.5 percent in; the first half)
+0.847: (The number of passengers; declined 5.5 percent as; overall passenger numbers)
+0.837: (The number of passengers; declined; 5.5 percent)
+0.736: (5.5 percent; be declined as; overall passenger numbers)
+0.736: (5.5 percent; be declined in; the first half)
+
+A spokesman for Hayden said Sunday that the senator was looking at several areas for possible legislation, including clarification of existing laws dealing with stalking and trespassing.
+0.826: (A spokesman; said in; Sunday)
+0.716: (the senator; was looking at; several areas)[attrib=A spokesman said]
+0.68: (existing laws; dealing with; stalking and trespassing)
+
+Pale strawberries soaked in a water-based liquid are lined up beside richly colored berries soaked in a balsamic vinegar-brown sugar sauce that stained them vivid red.
+0.931: (Pale strawberries; are lined up beside; colored berries soaked in a balsamic vinegar-brown sugar sauce)
+0.761: (colored berries; be soaked in; a balsamic vinegar-brown sugar sauce that stained them vivid red)
+0.752: (Pale strawberries; be soaked in; a water-based liquid)
+
+The troubled answers about the campaign against terrorism at home and abroad conveyed a similar fatalistic, slightly cranky mood.
+0.806: (The troubled answers about the campaign against terrorism at home and abroad; conveyed; a similar fatalistic , slightly cranky mood)
+
+Born in New York City to Greek parents, she returned with her mother to Greece at 14 and entered the conservatory in Athens.
+0.859: (she; entered the conservatory in; Athens)
+0.856: (she; returned with; her mother)
+0.847: (she; returned to; Greece)
+0.804: (she; returned at; 14)
+0.793: (the conservatory; be entered in; Athens)
+0.792: (she; entered; the conservatory)
+0.679: (she; be Born in; New York City)
+0.611: (she; be Born to; Greek parents)
+0.576: (she; entered the conservatory; Athens)
+
+The principal opposition parties boycotted the polls after accusations of vote-rigging, and the only other name on the ballot was a little-known challenger from a marginal political party.
+0.911: (the only other name; was a little-known challenger from; a marginal political party)
+0.908: (The principal opposition parties; boycotted the polls after; accusations of vote-rigging)
+0.845: (The principal opposition parties; was a little-known challenger from; a marginal political party)
+0.837: (The principal opposition parties; boycotted; the polls)
+0.82: (the only other name; boycotted the polls after; accusations of vote-rigging)
+0.795: (the polls; be boycotted after; accusations of vote-rigging)
+0.737: (the only other name; was; a little-known challenger)
+0.703: (the only other name; boycotted; the polls)
+0.599: (The principal opposition parties; was; a little-known challenger)
+0.351: (a little-known challenger; be the only other name on; the ballot)
+0.31: (only; be other name on; the ballot)
+0.31: (other; be name on; the ballot)
+
+If the other driver is amenable, the agent said he analyzes the client's policy to determine whether paying for all the damages will cost less money than paying a premium increase over six years.
+0.772: (he; analyzes; the client 's policy to determine whether paying for all the damages will cost less money than paying a premium increase over six years)[attrib=the agent said]
+0.674: (a premium increase; be paying over; six years)
+0.093: (the other driver; is; amenable)
+
+Sacks wrote of how he observed the brothers one day at a state mental hospital as they sat in apparent rapture exchanging six-figure primes that they seemed to pull from their heads.
+0.908: (they; sat in; apparent rapture exchanging six-figure primes)
+0.849: (they; seemed to pull from; their heads)
+0.751: (they; to pull from; their heads)
+0.672: (he; observed; the brothers)[enabler=as they sat in apparent rapture exchanging six-figure primes that they seemed to pull from their heads]
+
+If Calcavecchia plays Friday morning, he knows the importance of starting well, because the Americans have a recent history of falling behind early.
+0.717: (the Americans; have; a recent history falling behind early)
+0.569: (he; knows; the importance starting well)[enabler=If Calcavecchia plays Friday morning , he knows the importance of starting well , because the Americans have a recent history of falling behind early]
+0.143: (Calcavecchia; plays in; Friday morning)
+
+Or it can maintain and expand a safety net that is already larger than many people had thought, possibly giving more discouraged workers reason to depend on a government check.
+0.68: (it; can expand; a safety net that is already larger than many people had thought , possibly giving more discouraged workers reason)
+
+Some people say Barack Obama was not born in the United States.
+0.921: (Barack Obama; was not born in; the United States)[attrib=Some people say]
+0.618: (Barack Obama; was not born at; the United States)[attrib=Some people say]
+0.617: (Barack Obama; was not born on; the United States)[attrib=Some people say]
+
+Early astronomers believe that the earth is the center of the universe.
+0.887: (the earth; is the center of; the universe)[attrib=astronomers believe]
+0.674: (the earth; is; the center of the universe)
+
+Microsoft co-founder Bill Gates spoke at a conference on Monday.
+0.908: (Microsoft co-founder Bill Gates; spoke at; a conference)
+0.726: (Bill Gates; be co-founder of; Microsoft)
+
+I learned that the 2012 Sasquatch music festival is scheduled for May 25th until May 28th.
+0.87: (the 2012 Sasquatch music festival; is scheduled for; May)
+
+Among professionals, 76 % have a favorable opinion of her, compared to 62 % who approve of her husband's performance.
+0.757: (76 %; have; a favorable opinion of her)
+0.625: (76 %; have a favorable opinion of her among; professionals)
+
+Under the proposal by Equitec, a financially troubled real-estate syndicator, New York-based Hallwood Group Inc. would replace Equitec as the newly formed master limited partnership's general partner and manager.
+0.728: (Equitec; would be replace as; the newly formed master limited partnership 's general partner and manager)
+0.422: (Equitec; would be replace under; the proposal)
+0.252: (York-based Hallwood Group Inc.; be the proposal by; Equitec)
+
+Among nonsmokers, birth control pills slightly raise a woman's risk of abnormal blood clotting, high blood pressure, heart attack, and stroke.
+0.789: (birth control pills; slightly raise; a woman 's risk of abnormal blood clotting)
+0.565: (a woman 's risk of abnormal blood clotting; be slightly raise among; nonsmokers)
+0.329: (birth control pills; slightly raise a woman 's risk of abnormal blood clotting among; nonsmokers)
+
+Among professionals, 76 % have a favorable opinion of her, compared to 62 % who approve of her husband's performance.
+0.757: (76 %; have; a favorable opinion of her)
+0.625: (76 %; have a favorable opinion of her among; professionals)
+
+Among professionals, 76 % have a favorable opinion of her, compared to 62 % who approve of her husband's performance.
+0.757: (76 %; have; a favorable opinion of her)
+0.625: (76 %; have a favorable opinion of her among; professionals)
+
+It is the presence of internal and external "enemies" which justifies the need for a large, active army that Mikhail Gorbachev's Soviet Union continues to supply with bullets.
+0.868: (It; is the presence of; internal and external "enemies)
+0.764: (Mikhail Gorbachev 's Soviet Union; continues to supply with; bullets)
+0.746: (It; is; the presence of internal and external "enemies which justifies the need for a large , active army)
+0.725: (Mikhail Gorbachev 's Soviet Union; to supply with; bullets)
+0.643: (the need; be justifies by; the presence of internal and external "enemies)
+
+At the Southern Commercial Convention of 1854, Pike said the South should remain in the Union and seek equality with the North, but if the South "were forced into an inferior status, she would be better out of the Union than in it".
+0.737: (the South; should remain in; the Union)[attrib=Pike said]
+0.737: (Pike; said of; the South)
+0.736: (Pike; said at; the Southern Commercial Convention of 1854)
+0.599: (the South; should seek; equality)[attrib=Pike said]
+0.395: (Pike; said to; the Southern Commercial Convention of 1854)
+0.384: (Pike; said in; the Southern Commercial Convention of 1854)
+0.244: (the South; "were forced into; an inferior status)
+
+On June 10, the Reds were playing the first place St. Louis Cardinals at Crosley Field and trailing 13-0 in the ninth inning when Manager Bill McKechnie called on Nuxhall to enter the game.
+0.909: (Manager Bill McKechnie; called on; Nuxhall)
+0.77: (Manager Bill McKechnie; to enter; the game)
+0.711: (Manager Bill McKechnie; called to enter; the game)
+0.665: (the Reds; were playing; the first place St . Louis Cardinals)
+0.586: (the first place St . Louis Cardinals; were playing at; Crosley Field)
+0.564: (the Reds; were playing the first place St . Louis Cardinals at; Crosley Field)
+0.418: (the first place St . Louis Cardinals; were playing on; June 10)
+0.37: (the Reds; were trailing 13-0 in; the ninth inning)[enabler=when Manager Bill McKechnie called on Nuxhall to enter the game]
+0.364: (the Reds; were trailing; 13-0)[enabler=when Manager Bill McKechnie called on Nuxhall to enter the game]
+0.364: (13-0; were trailing in; the ninth inning)[enabler=when Manager Bill McKechnie called on Nuxhall to enter the game]
+0.338: (the Reds; were playing the first place St . Louis Cardinals on; June 10)
+
+Singer Bette Midler won a $ 400,000 federal court jury verdict against Young & Rubicam in a case that threatens a popular advertising industry practice of using "sound-alike" performers to tout products.
+0.867: (Singer Bette Midler; won a $ 400,000 federal court jury verdict against Young & Rubicam in; a case that threatens a popular advertising industry practice)
+0.826: (a $ 400,000 federal court jury verdict; be won in; a case that threatens a popular advertising industry practice)
+0.817: (Singer Bette Midler; won; a $ 400,000 federal court jury verdict)
+0.593: (Singer Bette Midler; won a $ 400,000 federal court jury verdict against Young & Rubicam; a case that threatens a popular advertising industry practice)
+0.564: (a popular advertising industry practice using " sound-alike " performers to tout products; be threatens by; a case)
+
+It is a distinction that satisfies neither side in the debate.
+0.686: (It; is; a distinction that satisfies neither side in the debate)
+
+Operating profit at Colgate's U.S. household products and personal care businesses, which include such well-known brands as Colgate toothpaste and Fab laundry detergent, jumped more than 40 %, the company said.
+0.744: (Operating profit; jumped; than 40 %)[attrib=the company said]
+0.634: (U.S. household; be products of; Colgate)
+
+Guillermo Billinghurst was overthrown on February 4, 1914, in a military coup headed by colonel Oscar R. Benavides, Javier and Manuel Prado, and conservatives members of the Civilista Party.
+0.924: (Guillermo Billinghurst; was overthrown in; a military coup headed by colonel Oscar R. Benavides , Javier and Manuel Prado)
+0.908: (Guillermo Billinghurst; was overthrown on; February 4 , 1914)
+0.636: (a military coup; be headed by; colonel Oscar R. Benavides , Javier and Manuel Prado)
+
+While in the CF, he completed the year-long course at the Canadian Forces Command and Staff College and received a Master of Arts in war studies degree from Royal Military College of Canada, student # G0053 in 1980.
+0.806: (he; completed the year-long course at; the Canadian Forces Command and Staff College)
+0.804: (a Master of Arts; be received in; war studies degree)
+0.785: (a Master of Arts; be received from; Royal Military College of Canada)
+0.755: (he; received a Master of Arts in; war studies degree)
+0.75: (he; completed; the year-long course)
+0.724: (the year-long course; be completed at; the Canadian Forces Command and Staff College)
+0.694: (he; received a Master of Arts from; Royal Military College of Canada)
+0.678: (he; received; a Master of Arts)
+0.301: (student; be Royal Military College of; Canada)
+
+Denis C. Smith was named to the new post of vice president of world-wide advanced materials operations for this chemicals concern.
+0.953: (Denis C. Smith; was named to; the new post of vice president of world-wide advanced materials operations)
+0.83: (Denis C. Smith; was named for; this chemicals concern)
+0.393: (new; post of; vice president of world-wide advanced materials operations)
+
+On July 16 2008, Hezbollah transferred the coffins of captured Israeli soldiers, Ehud Goldwasser and Eldad Regev, in exchange for Samir Kuntar and four other Hezbollah members captured by Israel during the 2006 Lebanon War, as well as the remains of 199 Lebanese and Palestinians.
+0.768: (Hezbollah; be members during; the 2006 Lebanon War)
+0.591: (Hezbollah; transferred Eldad Regev as well as the remains 199 Lebanese Palestinians in; exchange)
+0.591: (Hezbollah; transferred the coffins of captured Israeli soldiers as well as the remains 199 Lebanese Palestinians in; exchange)
+0.533: (Hezbollah; transferred Ehud Goldwasser and Eldad Regev , as well as the remains 199 Lebanese Palestinians in; exchange)
+0.437: (Hezbollah; transferred Eldad Regev as well as the remains 199 Lebanese Palestinians; the coffins of captured Israeli soldiers)
+0.412: (the coffins of captured Israeli soldiers; be transferred Eldad Regev as well as the remains 199 Lebanese Palestinians in; exchange)
+0.397: (Ehud Goldwasser and Eldad Regev; be transferred the coffins of captured Israeli soldiers as well as the remains 199 Lebanese Palestinians in; exchange)
+0.38: (Hezbollah; transferred Ehud Goldwasser and Eldad Regev , as well as the remains 199 Lebanese Palestinians; the coffins of captured Israeli soldiers)
+0.357: (the coffins of captured Israeli soldiers; be transferred Ehud Goldwasser and Eldad Regev , as well as the remains 199 Lebanese Palestinians in; exchange)
+0.326: (Hezbollah; transferred the coffins of captured Israeli soldiers as well as the remains 199 Lebanese Palestinians; Ehud Goldwasser and Eldad Regev)
+0.314: (Hezbollah; transferred Eldad Regev as well as the remains 199 Lebanese Palestinians on; July 16 2008)
+0.314: (Hezbollah; transferred the coffins of captured Israeli soldiers as well as the remains 199 Lebanese Palestinians on; July 16 2008)
+0.297: (other; be Hezbollah members during; the 2006 Lebanon War)
+0.266: (Hezbollah; transferred Ehud Goldwasser and Eldad Regev , as well as the remains 199 Lebanese Palestinians on; July 16 2008)
+0.173: (Ehud Goldwasser and Eldad Regev; be transferred the coffins of captured Israeli soldiers as well as the remains 199 Lebanese Palestinians on; July 16 2008)
+0.173: (the coffins of captured Israeli soldiers; be transferred Eldad Regev as well as the remains 199 Lebanese Palestinians on; July 16 2008)
+0.142: (the coffins of captured Israeli soldiers; be transferred Ehud Goldwasser and Eldad Regev , as well as the remains 199 Lebanese Palestinians on; July 16 2008)
+
+Amuro returned to solo activities on her own with the single "Shine More", released on March 6, 2003.
+0.918: (Amuro; returned to solo activities on; her own)
+0.885: (Amuro; returned to solo activities with; the single " Shine More")
+0.877: (Amuro; returned to solo; activities)
+0.857: (Amuro; to solo activities on; her own)
+0.84: (Amuro; to solo; activities)
+0.805: (Amuro; to solo activities with; the single " Shine More")
+0.72: (activities; to be solo on; her own)
+0.696: (activities; to be solo with; the single " Shine More")
+0.692: (the single " Shine More"; be released on; March 6)
+
+Most coastal scyphozoans go through a stage as small polyps during their life cycle, whereas those that live in the open ocean generally lack the polyp stage altogether.
+0.85: (Most coastal scyphozoans; go through; a stage)
+0.815: (Most coastal scyphozoans; go as; small polyps)
+
+During his time as a student in Berlin, he was involved in the building of the 145 m long "Tunnel 57" below the Berlin Wall, which was the escape route of 57 people from East Berlin to the West.
+0.879: (he; was involved in; the building of the 145 m long)
+0.794: (the Berlin Wall; was the escape route of; 57 people)
+0.742: (the Berlin Wall; was the escape route of 57 people from; East Berlin)
+0.681: (he; was involved during; his time)
+0.678: (he; was involved of; the 145 m long)
+0.677: (the Berlin Wall; was the escape route of 57 people to; the West)
+
+The Skeleton King later merged with the demon Dark One, only to have him decapitated by the Hyperforce.
+0.87: (The Skeleton King; later merged with; the demon)
+0.837: (him; be decapitated by; the Hyperforce)
+0.736: (The Skeleton King; later merged in; Dark One)
+
+Christie made a splash with her extraordinary performance as Jane Bennet in ITV's critically acclaimed miniseries Lost in Austen, a modern twist on Austen's Pride & Prejudice.
+0.898: (Christie; made a splash with; her extraordinary performance)
+0.85: (Christie; made; a splash)
+0.808: (Jane Bennet; acclaimed miniseries Lost in; Austen)
+0.769: (Jane Bennet; acclaimed; miniseries Lost)
+0.747: (a splash; be made with; her extraordinary performance)
+0.706: (miniseries Lost; be acclaimed in; Austen)
+0.443: (Austen; be a modern twist on; Austen 's Pride)
+
+Some people say Barack Obama was born in Kenya.
+0.915: (Barack Obama; was born in; Kenya)[attrib=Some people say]
+0.598: (Barack Obama; was born at; Kenya)[attrib=Some people say]
+0.597: (Barack Obama; was born on; Kenya)[attrib=Some people say]
+
+The U.S. president Barack Obama gave his speech on Tuesday to thousands of people.
+0.901: (The U.S. president Barack Obama; gave his speech to; thousands of people)
+0.9: (The U.S. president Barack Obama; gave his speech on; Tuesday)
+0.872: (his speech; be gave to; thousands of people)
+0.84: (his speech; be gave on; Tuesday)
+0.787: (The U.S. president Barack Obama; gave; his speech)
+0.641: (Barack Obama; be president of; U.S.)
+0.565: (Barack Obama; be president for; U.S.)
+
+John ran down the road to fetch a pail of water.
+0.876: (John; ran down; the road to fetch a pail of water)
+
+The guide contains dead links and omits sites.
+0.782: (The guide; omits; sites)
+0.74: (The guide; contains; dead links)
+
+The Mark 14 was central to the torpedo scandal of the fleet.
+0.873: (The Mark 14; was central to; the torpedo scandal of the fleet)
+0.748: (The Mark 14; was; central)
+
+They recalled that Nungesser began his career as a precinct leader.
+0.853: (Nungesser; began his career as; a precinct leader)
+0.831: (his career; be began as; a precinct leader)
+0.764: (They; recalled; Nungesser)
+0.718: (Nungesser; began; his career)
+
+David Miscavige learned that after Tom Cruise divorced Mimi Rogers, he was pursuing Nicole Kidman.
+0.675: (Tom Cruise; divorced; Mimi Rogers)
+0.509: (he; was pursuing; Nicole Kidman)[enabler=that after Tom Cruise divorced Mimi Rogers]
+
+Cycles is an album by Frank Sinatra.
+0.904: (Cycles; is an album by; Frank Sinatra)
+0.746: (Cycles; is; an album)
+
+Thomas Harris is the author of the book Hannibal.
+0.936: (Thomas Harris; is the author of; the book Hannibal)
+0.795: (Thomas Harris; is; the author of the book Hannibal)
+
+Am I right in assuming Santa Cruz is a city in California?
+No extractions found.
+
+Mumbai has a population of many millions.
+0.813: (Mumbai; has; a population of many millions)
+
+Whoever has a Ph.D. in Mathematics can make it big in Computer Science.
+0.56: (a Ph.D.; can make; it big)
+
+Hitchcock has a cameo in most or all of his movies.
+0.785: (Hitchcock; has; a cameo)
+
+America made a deal with Mexico.
+0.901: (America; made a deal with; Mexico)
+0.85: (America; made; a deal)
+0.752: (a deal; be made with; Mexico)
+
+The sun made a promise to the moon about rising tomorrow.
+0.837: (The sun; made; a promise)
+0.812: (The sun; made to; the moon)
+
+My birthday party took place in a brightly lit dungeon with dragons.
+0.936: (My birthday party; took place in; a brightly lit dungeon)
+0.877: (My birthday party; took; place)
+0.804: (place; be took in; a brightly lit dungeon)
+0.764: (My birthday party; took place; a brightly lit dungeon)
+
+Remote took control over the local master.
+0.817: (control; be took over; the local master)
+
+The savant took advantage of ads wanting SUVs.
+0.923: (The savant; took advantage of; ads wanting SUVs)
+0.837: (The savant; took; advantage)
+0.824: (advantage; be took of; ads wanting SUVs)
+
+The bulb lighting up gave birth to an idea!
+0.611: (birth; be gave to; an idea)
+
+Tim Urban gave a talk at short notice.
+0.908: (Tim Urban; gave a talk at; short notice)
+0.85: (Tim Urban; gave; a talk)
+0.779: (a talk; be gave at; short notice)
+
+Deadpool gave new meaning to action comedy.
+0.908: (Deadpool; gave new meaning to; action comedy)
+0.85: (Deadpool; gave; new meaning)
+0.779: (new meaning; be gave to; action comedy)
+
+I did not get tickets to LA in time.
+0.778: (tickets; did not get in; time)
+0.768: (I; did not get tickets to LA in; time)
+0.723: (I; did not get; tickets)
+
+Everytime I get a deal on anything I don't need, I end up buying it.
+0.48: (I; get; a deal I do n't need)
+0.461: (I; end up buying; it)
+
+The Master's student got funding from the college just by the virtue of being pure awesome.
+0.808: (The Master 's student; got funding from; the college)
+0.805: (The Master 's student; got funding by; the virtue being pure awesome)
+
+After winning the Superbowl, the Saints are now the top dogs of the NFL.
+0.92: (the Saints; are now the top dogs of; the NFL)
+
+There are plenty of taxis available at Bali airport.
+No extractions found.
+
+Microsoft co-founder Bill Gates spoke at Atlanta.
+0.886: (Microsoft co-founder Bill Gates; spoke at; Atlanta)
+0.726: (Bill Gates; be co-founder of; Microsoft)
+
+Early astronomers believed that the earth is the center of the universe.
+0.887: (the earth; is the center of; the universe)[attrib=astronomers believed]
+0.674: (the earth; is; the center of the universe)
+
+If he wins five key states, Romney will be elected President.
+0.754: (Romney; will be elected; President)[enabler=If he wins five key states]
+0.067: (he; wins; five key states)
+
+She was a little anxious early on.
+0.461: (She; was early on; anxious)
+
+The other five are still alive and will be allowed to return home if they want.
+No extractions found.
+
+The yield spread between an index of option-free 10-year "A2" bank bonds and the 10-year Treasury note was 70 basis points yesterday, 2 basis points wider from a week earlier.
+0.908: (The yield; spread between; an index of option-free 10-year " A2 " bank bonds)
+
+The Rams sorely miss departed third receiver Az Hakim.
+0.758: (The Rams; sorely miss departed; third receiver Az Hakim)
+
+The board of directors of UAL, the parent company of United Airlines, is likely to name Glenn F. Tilton, an oil industry executive, as the airline's new president and chief executive in a meeting Monday morning, according to people with knowledge of the situation.
+0.751: (Glenn F. Tilton; to be name as; the airline 's new president and chief executive)
+0.727: (The board of directors of UAL; is; likely)
+0.615: (likely; be The board of; directors of UAL)
+0.53: (UAL; be the parent company of; United Airlines)
+0.514: (The board of directors of UAL; to name; Glenn F. Tilton)
+0.338: (UAL; be directors of; the parent company of United Airlines)
+
+The rules were written to encourage diversity of voices on the airwaves and competition among media outlets, and to prevent the biggest companies from becoming too powerful in controlling news and entertainment.
+No extractions found.
+
+There should be about 3 cups vegetables chopped medium fine.
+0.796: (about 3 cups vegetables; chopped; medium fine)
+
+Some think the blend is more weighted toward expedience.
+0.735: (the blend; is; weighted)
+0.714: (the blend; is weighted toward; expedience)[attrib=Some think]
+
+They litter the road to redemption with chaos, contraband, broken marriages, jilted women and political aspirations, but there still is a ray of hope and happiness for the residents of a small Cuban town called Guantanamera.
+0.871: (They; litter; the road)
+
+Pat Day, the winning jockey, agreed that Royal Indy had been "a little hot and nervous" before the race, but added : "She always seems to be like that, so I wasn't that concerned".
+0.345: (I; always seems so in; She)
+
+A Swiss Bank spokesman in Basel, Michel Willi, declined to comment on the talks, as did a spokesman in London.
+0.9: (A Swiss Bank spokesman; declined to comment on; the talks)
+0.828: (A Swiss Bank spokesman; to comment on; the talks)
+0.286: (Basel; be A Swiss Bank spokesman in; Michel Willi)
+
+The dollar often declines when U.S. Treasury officials express concern that Japan may be trying to boost its economy through exports.
+0.772: (U.S. Treasury officials; express; concern)
+0.772: (its economy; to be boost through; exports)
+0.653: (Japan; may be trying to boost its economy through; exports)
+0.649: (Japan; to boost; its economy)
+0.527: (Japan; may be trying to boost; its economy)
+
+His memory was a good deal better about White House management of the DNC, especially its fund-raising operations.
+No extractions found.
+
+His legislation would allow tax-free savings for expenses, including tuition, for any school, public, private or religious.
+0.881: (His legislation; would allow; tax-free savings)
+0.709: (tax-free savings; would be allow for; any school)
+0.703: (His legislation; would allow tax-free savings for expenses , including tuition for; any school)
+
+Had I known then what I know now, I might have argued for a different arrangement.
+0.893: (I; might have argued for; a different arrangement)
+
+I showed him 15 photographs which represented what I felt the movie should look and feel like.
+0.62: (I; showed; him)
+
+One of the most disturbing factors for Rohrabacher is that there has never been any formal apology from any of the Japanese companies.
+No extractions found.
+
+Also, on a recent afternoon, the waves were so small and punchless that they couldn't even provide sufficient lift for a 165-pound bodysurfer.
+0.751: (they; could n't even provide sufficient lift for; a 165-pound bodysurfer)
+0.708: (sufficient lift; could be n't even provide for; a 165-pound bodysurfer)
+0.704: (they; could n't even provide; sufficient lift)
+0.675: (the waves; Also were so; small and punchless)
+0.514: (the waves; Also were so small on; a recent afternoon)
+
+Or it can maintain and expand a safety net that is already larger than many people had thought, possibly giving more discouraged workers reason to depend on a government check.
+0.68: (it; can expand; a safety net that is already larger than many people had thought , possibly giving more discouraged workers reason)
+
+Edge Rams Offensive linemen "Texans are passionate about cooking briskets", McAdams adds.
+No extractions found.
+

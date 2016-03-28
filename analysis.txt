@@ -1,0 +1,328 @@
+sent	relation	contig	matches POS	between args	meets constraints	reason
+This is the best place to be for every Vi user or Vi user wannabe.	is the best place to be for	1	1	1	1	
+It will translate a phrase or a single word .	will translate	1	1	1	1	
+I can't sleep with my boyfriend without getting super drunk.	can't sleep with	1	1	1	1	
+"Some public chat rooms are monitored more frequently than others, depending on the COS and the type of chat room."	are monitored more frequently than	1	1	1	1	
+Walls impede my progress.	impede	1	1	1	1	
+This article is not unlike that.	is not unlike	1	1	1	1	
+I turns out that it only takes 5 drunk men about 20 minutes to think up new uses for women's sanitary products.	think up new uses for	1	1	1	1	
+"Don't get me wrong: Emacs is a great operating system---it lacks a good editor, though."	is	1	1	1	1	
+"Don't get me wrong: Emacs is a great operating system---it lacks a good editor, though."	lacks	1	1	1	1	
+"Select only the services you are comfortable with - like Facebook, Twitter, or Google Reader - to let your friends know what you like on YouTube."	are comfortable with	1	1	0	0	not between args - relative clause
+"However, looking good doesn't have to pack a wallop on the budget."	doesn't have to pack a wallop on	1	1	1	1	
+"Brian Droitcour is a writer, curator, and Russian-to-English translator."	is	1	1	1	1	
+"But if they are wounded or killed, they are often left to fend for themselves."	often left to fend for	1	1	1	1	
+"Using statistics from data provider Onboard Informatics, we crunched the numbers in order to zero in on America's best small towns for families."	using statistics from	0	1	0	0	introductory - participle
+"Using statistics from data provider Onboard Informatics, we crunched the numbers in order to zero in on America's best small towns for families."	crunched	1	1	1	1	
+"It has been great fun and very rewarding, and I have met some fantastic people both online and in person, but I have decided that I want to spend more time next year on both personal projects and watching my children grow up."	have met	1	1	1	1	
+"It has been great fun and very rewarding, and I have met some fantastic people both online and in person, but I have decided that I want to spend more time next year on both personal projects and watching my children grow up."	want to spend more time on	0	1	1	0	interrupting modifier
+Thank you everyone who voted for this video in the 2007 YouTube Video Awards.	voted for	1	1	1	1	
+A nerdy fanzine discovered in 2009.	discovered in	1	1	1	1	
+Barnardo's shops urgently need new stock.	urgently need	1	1	1	1	
+"Long a ubiquitous part of modern life, plastics are now in everything from diapers to water bottles to cell phones."	are now in	1	1	1	1	
+"She is also an artist, writer, curator, and Adjunct Faculty at Emerson College."	is Adjunct Faculty at	0	1	1	0	coordination
+"She is also an artist, writer, curator, and Adjunct Faculty at Emerson College."	is	1	1	1	1	
+The Supreme Court agreed to hear a case that will determine what privacy safeguards apply to text messages transmitted through government employees' pagers.	agreed to hear	1	1	1	1	
+The Supreme Court agreed to hear a case that will determine what privacy safeguards apply to text messages transmitted through government employees' pagers.	will determine	1	1	1	1	
+The Supreme Court agreed to hear a case that will determine what privacy safeguards apply to text messages transmitted through government employees' pagers.	apply to	1	1	1	1	
+The Supreme Court agreed to hear a case that will determine what privacy safeguards apply to text messages transmitted through government employees' pagers.	transmitted through	1	1	1	1	
+"If you have any questions you would like to ask, post it on the wall of our group, or tomorrow during the show you can IM us at wrbbradio!"	have	1	1	1	1	
+"If you have any questions you would like to ask, post it on the wall of our group, or tomorrow during the show you can IM us at wrbbradio!"	can IM	1	1	1	1	
+"One can use these Jabber bots to provide information about running systems, to make Web sites interact with Jabber-enabled visitors, or notify the bot owner about updates or changes that are monitored with custom Python scripts."	can use	1	1	1	1	
+"One can use these Jabber bots to provide information about running systems, to make Web sites interact with Jabber-enabled visitors, or notify the bot owner about updates or changes that are monitored with custom Python scripts."	to provide information about	1	0	1	0	infinitive
+"One can use these Jabber bots to provide information about running systems, to make Web sites interact with Jabber-enabled visitors, or notify the bot owner about updates or changes that are monitored with custom Python scripts."	notify	1	1	1	1	
+"One can use these Jabber bots to provide information about running systems, to make Web sites interact with Jabber-enabled visitors, or notify the bot owner about updates or changes that are monitored with custom Python scripts."	are monitored with	1	1	1	1	
+"If we're getting paid, it takes about $75,000 per year to run Cursor, which could be less if another organization takes us on, or, takes us over."	takes _ on	0	0	0	0	phrasal verb
+"If we're getting paid, it takes about $75,000 per year to run Cursor, which could be less if another organization takes us on, or, takes us over."	takes _ over	0	0	0	0	phrasal verb
+The Republicans took control of the US senate shortly thereafter.	took control of	1	1	1	1	
+At Callista this is the imperative.	is the imperative at	0	0	0	0	introductory - preposition
+"In pursuit of cheap holiday-appropriate whites, we found an unsung bargain hidden in plain sight."	found	1	1	1	1	
+"In pursuit of cheap holiday-appropriate whites, we found an unsung bargain hidden in plain sight."	hidden in	1	1	1	1	
+Dueling male-female vocals help make this STZA's most heartfelt & emotional album to date- the LP is packaged with a free mp3 download code!	is packaged with	1	1	1	1	
+Thoemmes gives permission to download them.	gives permission to download	1	1	1	1	
+A number of biologists are challenging the long-held orthodoxy that alien species are inherently bad.	are challenging	1	1	1	1	
+A number of biologists are challenging the long-held orthodoxy that alien species are inherently bad.	are inherently	1	1	1	1	
+I get a might pissed off when I have advertising shoved into any orifice the retailers can reach.	shoved into	1	1	1	1	
+I get a might pissed off when I have advertising shoved into any orifice the retailers can reach.	can reach	1	1	0	0	not between args - relative clause
+Shakespere might not be who you thought.	might not be	1	1	1	1	
+It was an amazing time once again.	was	1	1	1	1	
+South East Roads covers the southeastern U.S.	covers	1	1	1	1	
+Addressing the rumours that have been swirling the internet for the past few weeks.	have been swirling	1	1	1	1	
+"It can serve up files via SMB, AFP, NFS, FTP, and a variety of other alphabet-soup protocols."	can serve up files via	1	1	1	1	
+It was my strongest subject in high school.	was	1	1	1	1	
+Cursor.org was a lefty daily news aggregator that was blissfully straightforward.	was	1	1	1	1	
+Cursor.org was a lefty daily news aggregator that was blissfully straightforward.	was	1	1	1	1	
+They may even be a person with similar interests.	may even be	1	1	1	1	
+"DarkIce can record from OSS audio devices, ALSA audio devices, Solaris audio interfaces, and Jack sources."	can record from	1	1	1	1	
+The various Google/iCal sync things I've tried have been iffy in the past.	ve tried	1	1	0	0	not between args - relative clause
+The various Google/iCal sync things I've tried have been iffy in the past.	been	1	1	1	1	
+"Norman Mailer, MoonFire, Lunar Rock Edition, designed by Marc Newson."	designed by	1	1	1	1	
+"We study internet security vulnerabilities, research long-term changes in networked systems, and develop information and training to help you improve security."	study	1	1	1	1	
+"We study internet security vulnerabilities, research long-term changes in networked systems, and develop information and training to help you improve security."	research	1	1	1	1	
+"We study internet security vulnerabilities, research long-term changes in networked systems, and develop information and training to help you improve security."	develop	1	1	1	1	
+Some are familiar names; others shun the spotlight.	are	1	1	1	1	
+Some are familiar names; others shun the spotlight.	shun	1	1	1	1	
+"E-mail is stored on a server, where it will remain until the addressee retrieves it."	is stored on	1	1	1	1	
+"E-mail is stored on a server, where it will remain until the addressee retrieves it."	retrieves	1	1	1	1	
+"In the meantime, we'll keep working behind the scenes on some changes for the site."	ll keep working behind the scenes on	1	1	1	1	
+Screen reader users may choose to read only the links on a web page.	may choose to read	1	1	1	1	
+"I like the way this one is organized, with quick ways to narrow down search results."	like	1	1	1	1	
+"If you like, you can send the letters yourself."	can send	1	1	1	1	
+How Detroit DSA works in the Democratic Party to effect change.	works in	1	1	1	1	
+How Detroit DSA works in the Democratic Party to effect change.	to effect	0	1	1	0	infinitive
+The 91-Pound Acid TripThe numbers touted by the government in its big LSD bust just don't add up.	touted by	1	1	1	1	
+"Instead of publishing a second half of this issue, Crunchable is going on a brief winter break as we plunge deeper into the holiday season."	is going on	1	1	1	1	
+"Instead of publishing a second half of this issue, Crunchable is going on a brief winter break as we plunge deeper into the holiday season."	plunge deeper into	1	1	1	1	
+You can learn more about accessibility by browsing our articles and resources.	learn more about	1	1	1	1	
+A portion of the page is in English.	is in	1	1	1	1	
+"Five years ago, I was working for just over minimum wage creating PDF forms for a small company."	was working for	1	1	1	1	
+"Five years ago, I was working for just over minimum wage creating PDF forms for a small company."	creating	1	1	1	1	
+Patricia Arquette and Christian Slater prove that phone booths are still good for something.	are still good for	1	1	1	1	
+"During two days, two groups of people tried to work out their own locative media concepts - not only on paper, but also in the field."	tried to work out	1	1	1	1	
+We emphasise strong design and robust implementation to provide high-quality source code.	emphasise	1	1	1	1	
+We emphasise strong design and robust implementation to provide high-quality source code.	to provide	1	0	1	0	infinitive
+All information applies to U.S. vehicles only.	applies to	1	1	1	1	
+"In a step toward compromise with developers, Feinstein included provisions in the legislation that would cut drastically the time and costs associated with federal review for renewable energy projects on private lands."	included	1	1	1	1	
+"In a step toward compromise with developers, Feinstein included provisions in the legislation that would cut drastically the time and costs associated with federal review for renewable energy projects on private lands."	would cut the time associated with	0	0	1	0	coordination
+"In a step toward compromise with developers, Feinstein included provisions in the legislation that would cut drastically the time and costs associated with federal review for renewable energy projects on private lands."	would cut the costs associated with	0	0	1	0	coordination
+We Have moved our Instructions to Authors Database to a new location.	moved	1	1	1	1	
+"Now I am a homeowner - fairly recent, too, as I celebrated my one-year anniversary this past US Thanksgiving."	am	1	1	1	1	
+"Now I am a homeowner - fairly recent, too, as I celebrated my one-year anniversary this past US Thanksgiving."	celebrated	1	1	1	1	
+"Well, one problem here is that WordPress pages do not have excerpts for pages."	do not have	1	1	1	1	
+"There are other materials available in our resources page, as well as links to other KidsWalk programs and events on our related links page."	available in	1	1	1	1	
+"They simply open a web browser and listen as their screen reader reads the newspaper to them, and they do it when they want to and as soon as the content is published."	simply open	1	1	1	1	
+"They simply open a web browser and listen as their screen reader reads the newspaper to them, and they do it when they want to and as soon as the content is published."	reads the newspaper to	1	1	1	1	
+You can turn Autoshare off at any time.	can turn _ off	0	0	0	0	phrasal verb
+"It was a big risk, but it was work."	was	1	1	1	1	
+"It was a big risk, but it was work."	was	1	1	1	1	
+Four professional calligraphers spend three hours on each page every single day to put out this daily paper.	spend	1	1	1	1	
+Four professional calligraphers spend three hours on each page every single day to put out this daily paper.	to put out	1	0	1	0	infinitive
+"This chassis supports up to six fans, has a complete black interior, and has plenty of higher end features packed into a small case."	supports	1	1	1	1	
+"This chassis supports up to six fans, has a complete black interior, and has plenty of higher end features packed into a small case."	has	1	1	1	1	
+"This chassis supports up to six fans, has a complete black interior, and has plenty of higher end features packed into a small case."	has	1	1	1	1	
+"This chassis supports up to six fans, has a complete black interior, and has plenty of higher end features packed into a small case."	packed into	1	1	1	1	
+This week alone baby will grow about three eighths of an inch.	will grow	1	1	1	1	
+Another classic added to our Re-issues of Necessity series!	added to	1	1	1	1	
+"For sound complexity, one language stands out."	stands out for	0	0	0	0	introductory - preposition
+"Our computer security courses are developed by industry leaders in numerous fields including network security, forensics, audit, security leadership, and application security."	are developed by	1	1	1	1	
+It is an incomplete and subjective report by shoma kihastin.	is subjective report by	0	0	0	0	coordination
+It is an incomplete and subjective report by shoma kihastin.	is an incomplete report by	0	0	0	0	coordination
+A report on 2 Epson printers concludes less than a buck for an 8x10.	concludes	1	1	1	1	
+AARoads offers a wide range of highway coverage spread throughout six domains.	offers a wide range of	1	1	1	1	
+AARoads offers a wide range of highway coverage spread throughout six domains.	spread throughout	1	1	1	1	
+"After meeting a child on-line, they will continue to communicate electronically often via e-mail."	meeting	1	1	0	0	introductory - preposition
+"After meeting a child on-line, they will continue to communicate electronically often via e-mail."	will continue to communicate electronically often via	1	1	1	1	
+And he's planning gigs in London - details will be on the website as soon as they're confirmed.	planning gigs in	1	1	1	1	
+And he's planning gigs in London - details will be on the website as soon as they're confirmed.	will be on	1	1	1	1	
+"And the photographs illustrated that, from miles above, even the murky sediment in the Gulf of Mexico or a violent sandstorm off the Senegal coast can have a delicate beauty."	can have	1	1	1	1	
+"And they are transforming culture, even as they spawn new markets."	transforming	1	1	1	1	
+"And they are transforming culture, even as they spawn new markets."	spawn	1	1	1	1	
+"Art Edition limited to 100 numbered copies, each signed by the artist and accompanied by a signed serigraph, The Firebird Suite."	limited to	1	1	1	1	
+"Art Edition limited to 100 numbered copies, each signed by the artist and accompanied by a signed serigraph, The Firebird Suite."	signed by	1	1	1	1	
+"Art Edition limited to 100 numbered copies, each signed by the artist and accompanied by a signed serigraph, The Firebird Suite."	accompanied by	1	1	1	1	
+ArtCat is the opinionated art calendar covering the New York area.	is	1	1	1	1	
+ArtCat is the opinionated art calendar covering the New York area.	covering	1	1	1	1	
+"As I headed back for the very relative warmth of the main tent I was drawn to the life size replica of SpaceShipOne, the vehicle I watched blasting into space above Mojave in the first half of this decade."	headed back for	1	1	1	1	
+"As I headed back for the very relative warmth of the main tent I was drawn to the life size replica of SpaceShipOne, the vehicle I watched blasting into space above Mojave in the first half of this decade."	was drawn to	1	1	1	1	
+"As I headed back for the very relative warmth of the main tent I was drawn to the life size replica of SpaceShipOne, the vehicle I watched blasting into space above Mojave in the first half of this decade."	blasting into	1	1	1	1	
+"As our government passes laws making it increasingly difficult for youth to obtain cigarettes, and as Uncle Sam limits the advertising of tobacco more in the future, teens will not start smoking in such huge numbers."	passes	1	1	1	1	
+"As our government passes laws making it increasingly difficult for youth to obtain cigarettes, and as Uncle Sam limits the advertising of tobacco more in the future, teens will not start smoking in such huge numbers."	limits 	1	1	1	1	
+"At this year's SXSW Interactive, I felt more comfortable with movies than with people."	felt more comfortable with	1	1	1	1	
+"At this year's SXSW Interactive, I felt more comfortable with movies than with people."	felt more comfortable at	0	0	0	0	introductory - preposition
+"Because this year A may be better than B, but next year B may be better or A may not exist."	may be better than	1	1	1	1	
+Biz is our life and it has plenty of funny moments.	is	1	1	1	1	
+Biz is our life and it has plenty of funny moments.	has plenty of	1	1	1	1	
+Blatant Exposure is an advertising agency with the creativity and experience to help you get your message to the people who need to hear it.	is	1	1	1	1	
+Blatant Exposure is an advertising agency with the creativity and experience to help you get your message to the people who need to hear it.	need to hear	1	1	1	1	
+But a new generation of Bhopal survivors is taking on the fight.	is taking on	1	1	1	1	
+"But not only were they illegal, like debuggers_you could not install one if you had one, without knowing your computer's root password."	could not install	1	1	1	1	
+"But not only were they illegal, like debuggers_you could not install one if you had one, without knowing your computer's root password."	had	1	1	1	1	
+"By using the Internet or reading reviews in personal finance magazines, choose a credit card that will fit your needs."	will fit	1	1	1	1	
+COSs generally offer limited access to the Internet as part of their total service package.	generall offer limited access to	1	1	1	1	
+"Changes from the 1.2 series include scalable SNMP plugins , SSL support, many new plugins, many bugfixes, and many other new features."	include	1	1	1	1	
+"Chas: Man, you have guts to publish this."	have	1	1	1	1	
+"Checking out the call stack for a few dozen entries, they all looked the same."	checking out	1	1	0	0	introductory - participle
+Cigarette ads clearly influence our teens.	influence	1	1	1	1	
+Cleaning primate cages is too good for them.	is too good for	1	1	1	1	
+"Coming up this year, Long will star in The Weinstein Company's Youth in Revolt, alongside Michael Cera and Steve Buscemi."	will star in	1	1	1	1	
+"Coming up this year, Long will star in The Weinstein Company's Youth in Revolt, alongside Michael Cera and Steve Buscemi."	will star alongside	0	1	1	0	multiple arguments
+"Dan would eventually find out about the free kernels, even entire free operating systems, that had existed around the turn of the century."	would eventually find out about	1	1	1	1	
+"Dan would eventually find out about the free kernels, even entire free operating systems, that had existed around the turn of the century."	had existed around	1	1	1	1	
+Dear Prime Minister Brown: The Committee to Protect Journalists wishes to offer our condolences on the loss of British Parachute Regiment Cpl.	wishes to offer our condolences on	1	1	1	1	
+"DoubleTake want to thank their loyal readers, contributors, and supporters for ten years of overwhelming generosity and support."	want to thank	1	1	1	1	
+Due to the handmade nature no two items will ever be exactly alike.	will ever be	1	1	1	1	
+"During the last two decades, mountaintop removal mining in Appalachia has destroyed or severely damaged more than a million acres of forest and buried nearly 2,000 miles of streams."	has destroyed	1	1	1	1	
+"During the last two decades, mountaintop removal mining in Appalachia has destroyed or severely damaged more than a million acres of forest and buried nearly 2,000 miles of streams."	severely damaged	1	1	1	1	
+"During the last two decades, mountaintop removal mining in Appalachia has destroyed or severely damaged more than a million acres of forest and buried nearly 2,000 miles of streams."	buried	1	1	1	1	
+"Each item is limited edition: made by hand and produced in small quantities, often as small as one."	is	1	1	1	1	
+"Each item is limited edition: made by hand and produced in small quantities, often as small as one."	made by	1	1	1	1	
+"Each item is limited edition: made by hand and produced in small quantities, often as small as one."	produced in	1	1	1	1	
+"Earnings data for two occupations, airline pilots, copilots, and flight engineers and flight attendants, which appear in many places within the and Occupational Outlook Handbook, are being removed from the BLS website because these data were incorrect as initially published."	appear in	1	1	1	1	
+"Earnings data for two occupations, airline pilots, copilots, and flight engineers and flight attendants, which appear in many places within the and Occupational Outlook Handbook, are being removed from the BLS website because these data were incorrect as initially published."	are being removed from	1	1	1	1	
+"Ebbs and Flows is Rob Calder, a musician based in Kilburn, northwest London."	is	1	1	1	1	
+"Ebbs and Flows is Rob Calder, a musician based in Kilburn, northwest London."	based in	1	1	1	1	
+Ebbs and Flows will be appearing on a Weathermen remix compilation album due out sometime soon.	will be appearing on	1	1	1	1	
+Ebbs and Flows will be appearing on a Weathermen remix compilation album due out sometime soon.	due out	1	1	1	1	
+Eric Meyer is posting lots of feedback on the WaSP Community CSS3 Feedback 2008.	is posting lots of feedback on	1	0	1	0	interrupting modifier
+"Established in 1997, go.to is part of the oldest and largest web forwarding and email redirection service in the world."	established in	1	1	0	0	introductory - participle
+"Established in 1997, go.to is part of the oldest and largest web forwarding and email redirection service in the world."	is part of	1	1	1	1	
+F-Spot is a personal photo management application for the GNOME desktop.	is	1	1	1	1	
+"Farm to spork: Children see fruits of partnering schools with farms by Rachel Gleason, Great Lakes Echo."	see fruits of	1	1	1	1	
+"Flash 10.1, due in 2010, will be the last version to support the CPU that powered the Beige G3, Blue & White G3, G3 PowerBooks, G3 iBooks, and G3 iMacs."	will be the last version to support	1	1	1	1	
+"For famous people research, I tried a search for Albert_Einstein."	tried a search for	1	1	1	1	
+"For those involved in organising the next documenta, the journey publicly begins on September 18th, 2009."	involved in organising	1	1	1	1	
+"For those involved in organising the next documenta, the journey publicly begins on September 18th, 2009."	publicly begins on	1	1	1	1	
+"From the kooky to the chilling, from the madcap to the macabre, Threads unravels the fabric of normal life and knits it back into something altogether oddball."	unravels the fabric of	1	1	1	1	
+George is now sponsoring a child named Yasmin...	is now sponsoring	1	1	1	1	
+George is now sponsoring a child named Yasmin...	named	1	1	1	1	
+"Hampered by a slow-moving Congress, the Obama administration is offering only modest greenhouse gas reduction targets at the Copenhagen conference."	hampered by	1	1	0	0	introductory - participle
+"Hampered by a slow-moving Congress, the Obama administration is offering only modest greenhouse gas reduction targets at the Copenhagen conference."	is offering	1	1	1	1	
+"He has a innate talent for turning out unexpected, but immediately captivating, observations."	has a innate talent for	1	1	1	1	
+"He's also contributing an accoustic tune to the Doubledotdash summer album, which will be released late Autumn 2008."	s also contributing an accoustic tune to	1	1	1	1	
+"He's also contributing an accoustic tune to the Doubledotdash summer album, which will be released late Autumn 2008."	will be released	1	1	1	1	
+"Hello, you either have JavaScript turned off or an old version of Adobe's Flash Player."	have _ turned off	0	0	0	0	phrasal verb
+"Hudson: this looks awesome, but also somewhat overkill for our needs."	looks	1	1	1	1	
+I bet you can just taste the excitement.	can just taste	1	1	1	1	
+I created this cool friends network and added you to my friends network.	created	1	1	1	1	
+I fired up IDA Pro and ran it through some light debugging to confirm the problem.	fired up	1	1	1	1	
+I fired up IDA Pro and ran it through some light debugging to confirm the problem.	to confirm	1	0	1	0	infinitive
+"I have tried these with a few accounts, and found that they are pretty decent."	are	1	1	1	1	
+I know that the guide contains many dead links and omits many valuable new sites.	contains	1	1	1	1	
+I know that the guide contains many dead links and omits many valuable new sites.	omits	1	1	1	1	
+"I stopped updating this guide in February 2003, after eight years online."	stopped updating	1	1	1	1	
+"I stopped updating this guide in February 2003, after eight years online."	stopped updating in	0	1	1	0	multiple arguments
+I'll be keeping posted on that as well.	ll be keeping posted on	1	1	1	1	
+"I've never smoked cigarettes, I've never smoked pot, I've never had a drink."	ve never smoked	1	1	1	1	
+"I've never smoked cigarettes, I've never smoked pot, I've never had a drink."	ve never smoked	1	1	1	1	
+"I've never smoked cigarettes, I've never smoked pot, I've never had a drink."	ve never had	1	1	1	1	
+"I've seen tons of little knick knacks to attach to Wii controllers as well as various versions of the Wii controller and nun-chuck, but this is just freakin sweet!"	ve seen tons of	1	1	1	1	
+"I've seen tons of little knick knacks to attach to Wii controllers as well as various versions of the Wii controller and nun-chuck, but this is just freakin sweet!"	to attach to	1	0	1	0	infinitive
+"I've seen tons of little knick knacks to attach to Wii controllers as well as various versions of the Wii controller and nun-chuck, but this is just freakin sweet!"	is	1	1	1	1	
+"If speed is a problem, try this mirror site."	is	1	1	1	1	
+"If this tag is to be placed on an SSL page, change the * 'http://qunoads.com/www/delivery/...' * to * 'https://qunoads.com/www/delivery/...' * * This noscript section of this tag only shows image banners."	is to be placed on	1	1	1	1	
+If you have invested or know of someone that has invested in tax liens please let me know about the experience.	have invested in	0	1	1	0	coordination
+If you have invested or know of someone that has invested in tax liens please let me know about the experience.	has invested in	1	1	1	1	
+"If you prefer to learn face-to-face, Personal Training Sessions offer an uninterrupted hour with a Trainer."	offer an uninterrupted hour with	1	1	1	1	
+"In 2009, these images once again provided an extraordinary view of the powerful forces of nature, of the widening footprint of human civilization, and of the point where they often meet."	once again provided an extraordinary view of	1	1	1	1	
+"In addition to top-notch training, we offer certification via the ANSI accredited GIAC security certification program as well as numerous free security resources including newsletters, whitepapers and webcasts."	we offer certification via	1	1	1	1	
+"In related news, the coalition will be meeting this Saturday, March 31, from 9-11 a.m. to pick up trash in the recharge zone ."	will be meeting	1	1	1	1	
+"Instead of a normal show, we will be having a live phone interview Joshua Holden, a member of the ensemble for the traveling company of Avenue Q! Avenue Q will be in Boston this weekend, and in commemoration, we will be talking to Joshua about his experiences and feelings about the show."	will be having	1	1	1	1	
+"Instead of a normal show, we will be having a live phone interview Joshua Holden, a member of the ensemble for the traveling company of Avenue Q! Avenue Q will be in Boston this weekend, and in commemoration, we will be talking to Joshua about his experiences and feelings about the show."	will be in	1	1	1	1	
+"Instead of a normal show, we will be having a live phone interview Joshua Holden, a member of the ensemble for the traveling company of Avenue Q! Avenue Q will be in Boston this weekend, and in commemoration, we will be talking to Joshua about his experiences and feelings about the show."	will be talking to	1	1	1	1	
+"Instead of a normal show, we will be having a live phone interview Joshua Holden, a member of the ensemble for the traveling company of Avenue Q! Avenue Q will be in Boston this weekend, and in commemoration, we will be talking to Joshua about his experiences and feelings about the show."	will be talking about	0	1	1	0	multiple arguments
+"It delivers UTF-8 encoded std::strings or UCS-2 std::wstrings, but can also accommodate custom string types and alternative encodings."	delivers	1	1	1	1	
+"It delivers UTF-8 encoded std::strings or UCS-2 std::wstrings, but can also accommodate custom string types and alternative encodings."	can also accommodate	1	1	1	1	
+It is a fundamental social activity and is strongly linked to the existence of conflict and diversity.	is	1	1	1	1	
+It is a fundamental social activity and is strongly linked to the existence of conflict and diversity.	is strongly linked to	1	1	1	1	
+"It was the most widespread day of environmental action in the planet's history, at over 5200 events around the world, many of them reported on the Indymedia Network."	was	1	1	1	1	
+"It was the most widespread day of environmental action in the planet's history, at over 5200 events around the world, many of them reported on the Indymedia Network."	reported on	1	1	1	1	
+"It's audio theater for the modern age, featuring Hitchcockian thrillers and goofball comedy in the vein of Mr. Show, Woody Allen and Monty Python."	s	1	1	1	1	
+"It's audio theater for the modern age, featuring Hitchcockian thrillers and goofball comedy in the vein of Mr. Show, Woody Allen and Monty Python."	featuring	1	1	1	1	
+It's deeply saddened to announce that DoubleTake Magazine has ceased publication.	has ceased	1	1	1	1	
+It's open source...	s	1	1	1	1	
+It's sorry it had to end; they simply run out of money and are unable to find sustained sources of support.	simply run out of	1	1	1	1	
+It's sorry it had to end; they simply run out of money and are unable to find sustained sources of support.	unable to find	1	1	1	1	
+"John Harrison, who died in a September 9 military operation to rescue two journalists kidnapped by Taliban forces in Afghanistan."	died in	1	1	1	1	
+"John Harrison, who died in a September 9 military operation to rescue two journalists kidnapped by Taliban forces in Afghanistan."	kidnapped by	1	1	1	1	
+Letters are not sent without your specific approval.	are not sent without	1	1	1	1	
+"Most of the time, these adaptations benefit nearly everyone, not just people with disabilities."	benefit	1	1	1	1	
+"Movies are provided in lists of 20, with details about the actors and director and sometimes a plot summary."	are provided in	1	1	1	1	
+"Movies are provided in lists of 20, with details about the actors and director and sometimes a plot summary."	are provided with	0	1	1	0	multiple arguments
+Network defenders and business leaders can use NetSA measures and evidence to better protect their networks.	can use	1	1	1	1	
+"New content will resume on Monday, Jan. 4, 2010."	will resume on	1	1	1	1	
+"Non-attendance will be a strike for the semester, which can affect your application for a show next semester."	will be a strike for	1	1	1	1	
+"Non-attendance will be a strike for the semester, which can affect your application for a show next semester."	can affect	1	1	1	1	
+"Now what will happen is that anytime a commit comes into the post-recieve hook, it'll try to correlate the email of the author of the commit with an entry in user_api_tokens, and if found, it'll use that tracker_api_token to call the Pivotal API, and thus associate the comment in Tracker with the person whose API token it is."	comes into	1	1	1	1	
+Orders normally ship out within 1-2 business days.	normally ship out within	1	1	1	1	
+Our children are our Nation's most valuable asset.	are	1	1	1	1	
+"Our crawler, Googlebot, will be able to find the rest."	will be happy to find	1	1	1	1	
+"Progressive Secretary sends out progressive email letters to Congress, the President, and other officials on peace, ecology, civil rights and other issues."	sends out progressive email letters to	1	1	1	1	
+"Progressive Secretary sends out progressive email letters to Congress, the President, and other officials on peace, ecology, civil rights and other issues."	sends out progressive email letters on	0	1	1	0	multiple arguments
+Recently I added RSS feeds to all of the city/destination and hotel pages on DealBase.	added RSS feeds to	1	1	1	1	
+Record Nerd has reached a size - several million records!	has reached	1	1	1	1	
+"Reference to any specific service or trade mark is not controlled by Sedo or domain owner and does not constitute or imply its association, endorsement or recommendation."	is not controlled by	1	1	1	1	
+"Reference to any specific service or trade mark is not controlled by Sedo or domain owner and does not constitute or imply its association, endorsement or recommendation."	does not constitute	1	1	1	1	
+"Reference to any specific service or trade mark is not controlled by Sedo or domain owner and does not constitute or imply its association, endorsement or recommendation."	does not imply	0	1	1	0	coordination
+Ross Campbell and Jeremiah Jenkins explore contemporary consciousness.	explore	1	1	1	1	
+SANS is the best and most trusted source for computer security training.	is the best source for	0	1	1	0	coordination
+SANS is the best and most trusted source for computer security training.	is the most trusted source for	0	1	1	0	coordination
+She seems like a cool chick.	seems like	1	1	1	1	
+Site contains scanned tables of contents of relevant books and journals.	contains	1	1	1	1	
+"So, today, I am sad to say that Digital Web Magazine has officially ceased publication."	officially ceased	1	1	1	1	
+Some were developed by standards bodies or subject to academic peer review.	were developed by	1	1	1	1	
+Some were developed by standards bodies or subject to academic peer review.	subject to	1	1	1	1	
+Someone wrote a whole Wikipedia entry about me.	wrote	1	1	1	1	
+Someone wrote a whole Wikipedia entry about me.	wrote about	0	1	1	0	multiple arguments
+"Stop back and visit us often - we'll have new trivia for you, along with links to exceptional websites to waste your time with."	have	1	1	1	1	
+"Such advertising can be reported to your service provider and, if known, the service provider of the originator."	can be reported to	1	1	1	1	
+"Tables of contents online, full-text in Postscript format available for downloading."	available for	1	1	1	1	
+"Tatiana talks about homelessness, poverty, teen pregnancy, and her involvement with Barnardo's."	talks about	1	1	1	1	
+The Free Flow of Information Act of 2009 was passed by the Senate Judiciary Committee with a vote of 14-5 and has been sent to the full Senate for a vote.	was passed by	1	1	1	1	
+The Free Flow of Information Act of 2009 was passed by the Senate Judiciary Committee with a vote of 14-5 and has been sent to the full Senate for a vote.	was passed with a vote of	0	0	1	0	multiple arguments
+The Free Flow of Information Act of 2009 was passed by the Senate Judiciary Committee with a vote of 14-5 and has been sent to the full Senate for a vote.	has been sent to	1	1	1	1	
+"The Henge itself took less than a day to design and build, add in shopping time for materials and then time to throw this webpage together, and you can do it all in 1 weekend."	took _ to build	0	0	0	0	phrasal verb
+"The Henge itself took less than a day to design and build, add in shopping time for materials and then time to throw this webpage together, and you can do it all in 1 weekend."	took _ to design	0	0	0	0	phrasal verb
+"The Henge itself took less than a day to design and build, add in shopping time for materials and then time to throw this webpage together, and you can do it all in 1 weekend."	do it all in	1	1	1	1	
+The Irish Echo uses my photo without my knowledge and consent.	uses	1	1	1	1	
+"The London Group, the Northern Group, and the Australian Group have their own pages."	have	1	1	1	1	
+The Summit blog says they'll have some video up soon.	ll have _ up soon	0	0	0	0	phrasal verb
+The Technology Marketplace Report is a list of selected technologies from our database.	is a list of	1	1	1	1	
+"The couple began reading about the history of copyright, about the Soviet Union and its restrictions on copying, and even the original United States Constitution."	began reading about	1	1	1	1	
+The formula is complex and each credit bureau uses a different calculation model.	is	1	1	1	1	
+The formula is complex and each credit bureau uses a different calculation model.	uses	1	1	1	1	
+The good news is that I think OAuth will be given the proper shake it needs to get any remaining kinks out.	will be given	1	1	1	1	
+"The images expanded our view of how human land use is reshaping our world, from the patchwork farms of the U.S. Midwest to the building boom in Dubai."	expanded our view of	1	1	1	1	
+"The images expanded our view of how human land use is reshaping our world, from the patchwork farms of the U.S. Midwest to the building boom in Dubai."	is reshaping	1	1	1	1	
+The latest edition of Elements is completely updated and includes a new 10th principle--the rights and responsibilities of citizens.	includes	1	1	1	1	
+The study of politics has been seen as a scientific one in that it is possible to gain an objective knowledge of the political world through differentiating it between facts and values.	has been seen as	1	1	1	1	
+The utility's $2.3 billion project to import liquid natural gas from overseas would increase greenhouse gas emissions and destroy habitat.	would increase	1	1	1	1	
+The utility's $2.3 billion project to import liquid natural gas from overseas would increase greenhouse gas emissions and destroy habitat.	would destroy	0	1	1	0	coordination
+The video has been added to your playlist.	has been added to	1	1	1	1	
+The world created in Avatar looks fantastic.	looks	1	1	1	1	
+There is nothing so ridiculous but some philosopher has said it.	has said	1	1	1	1	
+This PowerPoint presentation was developed to encourage state level promotion of walk and bicycle to school programs by building state level partnerships and assisting local constituents to develop walk and bicycle to school programs.	was developed to encourage	1	1	1	1	
+This XL retrospective explores Albert Oehlen's entire career chronologically and examines his creative process via in-depth texts and an interview with the artist.	explores	1	1	1	1	
+This XL retrospective explores Albert Oehlen's entire career chronologically and examines his creative process via in-depth texts and an interview with the artist.	examines	1	1	1	1	
+This article has been designed to help you make sense of what a FICO score really is.	make sense of	1	1	1	1	
+This fear is largely untrue.	is	1	1	1	1	
+This is a two-tier competition with a decent prize if you win for the forum you enter on and a Grand Prize for the winner of the whole competition.	is	1	1	1	1	
+This is a two-tier competition with a decent prize if you win for the forum you enter on and a Grand Prize for the winner of the whole competition.	win for	1	1	1	1	
+"This is how my sister will be when my parents eventually pass, this is how my sister will be when I become her default guardian, even though I am ten years younger than her."	become	1	1	1	1	
+"This is how my sister will be when my parents eventually pass, this is how my sister will be when I become her default guardian, even though I am ten years younger than her."	am ten years younger than	1	1	1	1	
+This of course leads to the drawing of pistols.	leads to	1	1	1	1	
+This page answers some likely questions and gives a fuller introduction to the series.	answers	1	1	1	1	
+This page answers some likely questions and gives a fuller introduction to the series.	gives a fuller introduction to	1	1	1	1	
+This website is intended for viewing solely in the United States.	is intended for viewing solely in	1	1	1	1	
+This website is produced and maintained by community volunteers.	is produced by	0	1	1	0	coordination
+This website is produced and maintained by community volunteers.	is maintained by	0	1	1	0	coordination
+This week I take a look at the latest film from Monty Python alum Terry Gilliam: The Imaginarium of Doctor Parnassus.	take a look at	1	1	1	1	
+Those in the global south who have contributed least to the problem are now facing the effects.	have contributed least to	1	1	1	1	
+Those in the global south who have contributed least to the problem are now facing the effects.	are now facing	1	1	1	1	
+Tuyuca requires verb-endings on statements to show how the speaker knows something.	requires	1	1	1	1	
+"Twenty-three years ago, on October 19, 1986, the sun quite suddenly set at noon."	set at	1	1	1	1	
+"Twenty-three years ago, on October 19, 1986, the sun quite suddenly set at noon."	set on	0	0	0	0	introductory - preposition
+We apologize for the inconvenience and thank you for your patience while we restore and upgrade this functionality.	apologize for	1	1	1	1	
+We apologize for the inconvenience and thank you for your patience while we restore and upgrade this functionality.	thank you for	1	1	1	1	
+We apologize for the inconvenience and thank you for your patience while we restore and upgrade this functionality.	restore	1	1	1	1	
+We apologize for the inconvenience and thank you for your patience while we restore and upgrade this functionality.	upgrade	1	1	1	1	
+"We have reviewed a handful of refurbished computer monitors from Geeks.com over the past few years, and overall we have been quite pleased."	reviewed	1	1	1	1	
+We need your help!	need	1	1	1	1	
+We run almost 400 projects around the UK from drug misuse to disability; youth crime to mental health; sexual abuse to domestic violence; poverty to homelessness.	run	1	1	1	1	
+"We used to have a link to this, but Washinton Post has decided to start charging users who wishes to read articles on the web site and therefore we have decided to remove the link."	used to have a link to	1	1	1	1	
+"We used to have a link to this, but Washinton Post has decided to start charging users who wishes to read articles on the web site and therefore we have decided to remove the link."	has decided to start charging	1	1	1	1	
+"We used to have a link to this, but Washinton Post has decided to start charging users who wishes to read articles on the web site and therefore we have decided to remove the link."	wishes to read	1	1	1	1	
+"We used to have a link to this, but Washinton Post has decided to start charging users who wishes to read articles on the web site and therefore we have decided to remove the link."	decided to remove	1	1	1	1	
+"WebAIM offers onsite training, consulting & technical assistance, accessible site design, and other services."	offers	1	1	1	1	
+"Weird facts, unusual information, bits and pieces of miscellany that we've been accumulating for ever and ever."	ve been accumulating	1	1	0	0	not between args - relative clause
+Well I have big plans for future ventures.	have big plans for	1	1	1	1	
+"While on-line computer exploration opens a world of possibilities for children, expanding their horizons and exposing them to different cultures and ways of life, they can be exposed to dangers as they hit the road exploring the information highway."	opens a world of possibilities for	1	0	1	0	interrupting modifier
+"While on-line computer exploration opens a world of possibilities for children, expanding their horizons and exposing them to different cultures and ways of life, they can be exposed to dangers as they hit the road exploring the information highway."	expanding	1	1	1	1	
+"While on-line computer exploration opens a world of possibilities for children, expanding their horizons and exposing them to different cultures and ways of life, they can be exposed to dangers as they hit the road exploring the information highway."	can be exposed to	1	1	1	1	
+"While on-line computer exploration opens a world of possibilities for children, expanding their horizons and exposing them to different cultures and ways of life, they can be exposed to dangers as they hit the road exploring the information highway."	hit	1	1	1	1	
+"While on-line computer exploration opens a world of possibilities for children, expanding their horizons and exposing them to different cultures and ways of life, they can be exposed to dangers as they hit the road exploring the information highway."	exploring	1	1	1	1	
+"While written for judges, this volume presents the latest research in a format useful to all professionals working with young children in foster care."	written for	1	1	0	0	introductory - participle
+"While written for judges, this volume presents the latest research in a format useful to all professionals working with young children in foster care."	presents	1	1	1	1	
+"While written for judges, this volume presents the latest research in a format useful to all professionals working with young children in foster care."	useful to	1	1	1	1	
+"You can also browse lists of new movies, free movies, etc."	can also browse	1	1	1	1	
+You can choose to listen to the full conversation or select individual sections.	can choose to listen to	1	1	1	1	
+You can choose to listen to the full conversation or select individual sections.	can select	0	1	1	0	coordination

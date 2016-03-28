@@ -1,0 +1,560 @@
+Bananas are an excellent source of potassium.
+0.89 (Bananas; are; an excellent source of potassium)
+
+Esaka and six other top executives will quit to take responsibility for 67.28 million yen in payoffs to corporate racketeer Ryuichi Koike, 54.
+0.97 (Esaka and six other top executives; will quit; to take responsibility for 67.28 million yen in payoffs to corporate racketeer Ryuichi Koike)
+0.93 Context(Esaka and six other top executives will quit,List([0, 44))):(Esaka and six other top executives; will quit to take; responsibility)
+
+He died en route to hospital.
+0.45 (He; died; L:en route to hospital)
+
+In previous games, Edwards believes that defenders were pressing, trying to overcompensate for the lack of certainty about the system by leaving their assignments to attempt a big play.
+0.64 (their assignments; to attempt; a big play)
+0.83 (Edwards; believes; that defenders were pressing, trying to overcompensate for the lack of certainty about the system by leaving their assignments; L:In previous games)
+0.66 Context(Edwards believes,List([19, 35))):(defenders; were pressing; )
+0.79 Context(Edwards believes defenders were pressing,List([19, 64))):(defenders; were pressing trying; to overcompensate for the lack of certainty about the system by leaving their assignments)
+
+It didn't specify which goods in either case.
+0.45 (It; did n't specify; which goods in either case)
+
+The committee is planning to hear from him this month.
+0.80 (The committee; is planning; to hear from him this month)
+0.80 Context(The committee is planning,List([0, 25))):(The committee; is planning to hear; from him; T:this month)
+
+The first photograph of the fatal crash in which Diana, Princess of Wales, died appeared on the front page of Bild Zeitung Monday.
+0.96 (Diana, Princess of Wales; died; L:the fatal crash)
+0.94 (The first photograph of the fatal crash; appeared; L:on the front page of Bild Zeitung; T:Monday)
+
+Tropical Storm Edouard will meander about 125 miles off the Georgia coast causing surf to build along parts of the Southeast Coast.
+0.76 (Tropical Storm Edouard; will meander; )
+0.89 Context(Tropical Storm Edouard will meander,List([0, 35))):(Tropical Storm Edouard; will meander causing; surf to build along parts of the Southeast Coast)
+0.80 Context(Tropical Storm Edouard will meander causing,List([0, 81))):(surf; to build; L:along parts of the Southeast Coast)
+
+The first batter he faced, Carl Everett, singled.
+0.89 (The first batter; faced; he)
+0.37 (The first batter he faced; singled; )
+
+If his use of the Web to create art sounds highfalutin, Koplowitz begs to differ.
+0.70 (his use of the Web; to create highfalutin; art sounds)
+
+The p53 protein is known to work as a genetic switch, binding to various sites along the DNA of cells and switching on nearby genes, a process called transactivation.
+0.75 (The p53 protein; is known; )
+0.90 (The p53 protein; to work; as a genetic switch)
+0.90 (a process; called; transactivation)
+
+Calcavecchia has looked steady recently, finishing in the top 35 in three of his last four starts, including a seventh-place finish at last month's PGA Championship.
+0.80 (Calcavecchia; has looked; steady; T:recently)
+0.91 (Calcavecchia; finishing; T:in the top 35 in three of his last four starts, including a seventh-place finish at last month's PGA Championship)
+
+There should be about 3 cups vegetables chopped medium fine.
+
+Politicians, historians, locals and the victims' families are grappling with how the site should be preserved.
+0.95 (Politicians, historians, locals and the victims' families; are grappling; with how the site should be preserved)
+0.73 (the site; should be preserved; )
+
+He didn't quite understand what I was getting at, or so he claimed.
+0.19 (he; claimed; )
+0.36 (He; did n't quite understand; what I was getting at, or so he claimed)
+0.16 Context(He did n't quite understand,List([0, 26))):(I; was getting; )
+
+Why does this "moment", to use a term bandied about by designers, call for an excess of clothes rendered in guipure lace, with ruffles, ribbons or other frilly edging, in polka-dotted or liquid silks or with lingerie-style details ? $ $ $ Still, traders said they expect investors to look for opportunities to buy temporarily depressed big-company shares, which have outperformed those of smaller companies for the past 2 1/2 years.
+0.78 (traders; said; they expect investors to look for opportunities)
+0.55 Context(traders said,List([246, 258))):(they; expect; investors to look for opportunities)
+0.87 Context(traders said they expect,List([246, 270))):(investors; to look; for opportunities)
+0.90 (a term; bandied about; by designers)
+0.81 (temporarily depressed big-company shares; have outperformed; those of smaller companies; T:for the past 2 1/2 years)
+0.89 (clothes; rendered; in guipure lace)
+0.73 (other frilly; edging; )
+
+But within seconds, his smile had receded and his tone had again turned serious.
+0.72 (his smile; had receded; T:within seconds)
+0.42 (his tone; had turned; serious; T:again)
+
+In the last four games of the losing streak, they surrendered deciding goals in the last minutes of the half or game three times and were blanked, 4-0, by Tampa Bay.
+0.74 (they; surrendered; deciding goals; T:in the last minutes of the half or game; T:three times; L:In the last four games of the losing streak)
+0.32 (they; were; blanked, 4-0)
+
+In the most world-renowned episode, seven frantic photographers on motorbikes chased Princess Diana and her companion, Dodi al-Fayed, after leaving the Ritz hotel in Paris.
+0.92 (seven frantic photographers on motorbikes; chased; Princess Diana and her companion; T:after leaving the Ritz hotel in Paris; L:In the most world-renowned episode)
+0.88 Context(seven frantic photographers on motorbikes chased,List([36, 84))):(seven frantic photographers on motorbikes; chased Princess Diana and her companion after leaving; the Ritz hotel; L:in Paris)
+0.39 (Dodi al; [is] companion [of]; hers)
+
+The need for strong federal action to protect the right to vote and the integrity of future national elections could not have been clearer.
+0.80 (The need for strong federal action; could not have been; clearer)
+
+Chicken minced very finely may be added if desired.
+0.76 (Chicken; minced very finely; may be added if desired)
+
+That, in itself, isn't awful.
+0.40 (That; is n't; awful; L:in itself)
+
+One of the most disturbing factors for Rohrabacher is that there has never been any formal apology from any of the Japanese companies.
+0.88 (One of the most disturbing factors for Rohrabacher; is; that there has never been any formal apology from any of the Japanese companies)
+
+Hose contracted inhalation anthrax while handling mail for the State Department in Sterling, Va.
+0.92 (Hose; handling; mail for the State Department in Sterling)
+
+Police departments launch massive enforcement plans to combat road rage.
+0.90 (Police departments; launch; massive enforcement plans to combat road rage)
+
+Still there is lingering concern that further earthquakes could follow, leading to some "transportation problems and mud-slides in Colombia", according to Tim Fallar, president of The Fallar Co. in West Harrison, New York.
+0.73 (further earthquakes; could follow; )
+0.38 (Tim Fallar; [is] president of; The Fallar Co.)
+
+The Cardinals considered very seriously drafting Purdue fullback Mike Alstott with their second-round pick a year ago.
+0.91 (The Cardinals; considered very seriously; drafting Purdue fullback Mike Alstott with their second-round pick a year ago)
+0.86 Context(The Cardinals considered very seriously,List([0, 39))):(The Cardinals; considered very seriously drafting; Purdue fullback Mike Alstott; with their second-round pick; T:a year ago)
+
+At least that was the case for linebacker Brendon Ayanbadejo at the Rose Bowl on Saturday.
+0.79 (At least that; was; the case for linebacker Brendon Ayanbadejo at the Rose Bowl on Saturday)
+0.37 (that; was the case for; linebacker Brendon Ayanbadejo)
+
+She was a little anxious early on.
+0.28 (She; was; a little anxious; T:early on)
+
+Hydra, of Cambridge, Mass., is named after a pond-dwelling creature that can grow two wholes after being sliced in half.
+0.93 (Hydra, of Cambridge; is named; after a pond-dwelling creature)
+
+Yet other studies point to fetal exposure to environmental toxins like lead, cigarettes and alcohol.
+0.94 (other studies; point; to fetal exposure to environmental toxins like lead, cigarettes and alcohol)
+
+For the major airlines, including Fort Worth-based American, it was as if an artery had been cut.
+0.52 (it; was; as if an artery had been cut)
+0.73 (an artery; had been cut; )
+
+The show is scheduled to be filmed in Austin till November, when MTV will decide whether to continue "Austin Stories", for a full season.
+0.92 (The show; is scheduled; to be filmed in Austin till November)
+0.90 (The show; to be filmed; L:in Austin; T:till November)
+0.90 (MTV; will decide; whether to continue "Austin Stories", for a full season)
+0.75 Context(MTV will decide,List([65, 80))):(MTV; will decide to continue; Austin Stories; T:for a full season)
+
+Even as those stocks slumped, smaller stocks rallied, pushing the Russell and Nasdaq to records.
+0.73 (smaller stocks; rallied; )
+0.90 (smaller stocks; pushing; the Russell and Nasdaq; to records)
+
+Remove the yolks carefully, mash them very fanE$ and season sparely with mustard, vinegar, salt, pepper and a tablespoonful of melted butter.
+
+Since the report was prepared, however, the energy market has declined and the number of possible buyers has dwindled, diminishing the value of those assets, analysts say.
+0.73 (the report; was prepared; )
+0.79 (the number of possible buyers; has dwindled; )
+0.79 (the number of possible buyers; diminishing; the value of those assets)
+0.99 (Since the report was prepared, however, the energy market has declined and the number of possible buyers has dwindled; say; analysts)
+0.71 Context(Since the report was prepared , however , the energy market has declined and the number of possible buyers has dwindled say,List([0, 170))):(the energy market; has declined; )
+
+Are the awards just an excuse to haul the stars out in finery given to them by designers?
+0.87 (just an excuse; to haul out; in finery)
+0.82 (finery; given; to them; by designers)
+
+You should probably just go online.
+0.36 (You; should probably just go; online)
+
+Or balanced on the tip of the tongue.
+
+Efforts to reach Johnson were unsuccessful.
+0.84 (Efforts to reach Johnson; were; unsuccessful)
+
+Lee Janzen IF PUSHED TO THE WALL, ISRAEL MIGHT FIRE NUKES That earned him the respect of analysts and investors, though the public remains skeptical.
+0.82 (ISRAEL MIGHT FIRE NUKES That; earned; him; the respect of analysts and investors)
+0.77 (the public; remains; skeptical)
+
+There were also searches of two warehouses owned by the firms in Schleswig-Holstein state and the office of the firms' tax adviser in Hamburg.
+0.95 (two warehouses; owned; by the firms in Schleswig-Holstein state and the office of the firms' tax adviser in Hamburg)
+
+They are moving to install side air bags to provide more protection to the head and chest.
+0.32 (They; are moving; )
+0.51 (They; to install; side air bags; to provide more protection to the head and chest)
+0.51 Context(They to install,List([0, 26))):(They; to install side air bags to provide; more protection; to the head and chest)
+
+McDaniel postponed ruling on Reilly's motion and also on a defense motion to move the trial out of Middlesex County because of the publicity the case has received.
+0.96 (McDaniel; postponed; ruling on Reilly's motion; to move the trial out of Middlesex County because of the publicity)
+0.93 (the publicity; has received; the case)
+
+Moreover, he said that foreign students spend an estimated $ 11 billion a year for tuition and rent, not to mention items ranging from jeans to pizzas.
+0.89 (items; ranging; from jeans; to pizzas)
+0.27 (he; said; that foreign students spend an estimated $ 11 billion a year for tuition and rent, not to mention items)
+0.90 Context(he said,List([10, 17))):(foreign students; spend; an estimated $ 11 billion a year; for tuition and rent)
+0.82 Context(he said foreign students spend,List([10, 45))):(foreign students; spend not to mention; items ranging from jeans to pizzas)
+
+Next up on the politics-and-calories calendar is a Buell dinner Monday for Chellie Pingree, the Dems' Maine senatorial candidate.
+0.97 (Next up on the politics-and-calories calendar; is; a Buell dinner Monday for Chellie Pingree)
+
+The group's attacks on the Kurdish leadership give it common cause with Saddam Hussein, though a firm link with the Iraqi dictator has not been established.
+0.92 (The group's attacks on the Kurdish leadership; give; it; common cause with Saddam Hussein)
+0.82 (a firm link with the Iraqi dictator; has not been established; )
+
+An online bidder in Boerne paid $ 525 for a 20-inch Sony television set that retails at less than $ 350 new.
+0.95 (An online bidder in Boerne; paid; $ 525; for a 20-inch Sony television)
+0.90 (a 20-inch Sony television; set; that retails at less than $ 350 new)
+
+A year ago, three-fifths of Americans said the government had done enough to protect them against another terrorist attack ; now just two-fifths do.
+0.95 (three-fifths of Americans; said; the government had done enough to protect them against another terrorist attack ; now just two-fifths do; T:A year ago)
+0.86 Context(three - fifths of Americans said,List([12, 42))):(just two-fifths; do; T:now)
+0.80 Context(three - fifths of Americans said just two - fifths do,List([12, 147))):(the government; had done; enough; to protect them against another terrorist attack)
+0.80 Context(three - fifths of Americans said the government had done just two - fifths do,List([12, 147))):(the government; had done enough to protect; them; against another terrorist attack)
+
+And as city officials scrambled to recruit new foster parents, they found themselves struggling to find homes for teen-agers, children suffering from psychological disorders, young mothers with babies and large groups of siblings.
+0.89 (children; suffering; from psychological disorders)
+0.88 (city officials; scrambled; to recruit new foster parents)
+0.88 Context(city officials scrambled,List([7, 31))):(city officials; scrambled to recruit; new foster parents)
+0.54 (they; found; themselves struggling to find homes for teen-agers; T:as city officials scrambled to recruit new foster parents)
+0.55 Context(they found,List([63, 73))):(themselves; struggling; to find homes for teen-agers)
+0.55 Context(they found themselves struggling,List([63, 95))):(themselves; struggling to find; homes for teen-agers)
+
+They sweet-talked, cajoled, and begged people to come talk.
+0.58 (They; begged; people; to come talk)
+0.75 (people; to come; talk)
+0.74 (people; talk; )
+
+Seagram shares rose C$ 0.25 to C$ 50.30 in midmorning Toronto trading and rose 3/16 to 36 3/16 in New York.
+0.92 (Seagram shares; rose; C$ 0.25; to C$ 50.30 in midmorning Toronto trading)
+0.90 (Seagram shares; rose; 3/16; to 36 3/16; L:in New York)
+
+More than 30 years ago, when Ekman first set out to determine whether facial expressions are innate or learned, he was derided by esteemed social scientists, including the famous anthropologist Margaret Mead.
+0.74 (he; was derided; by esteemed social scientists, including the famous anthropologist; T:More than 30 years ago; T:when Ekman first set out to determine whether facial expressions are innate or learned)
+0.93 (Ekman; set out; to determine whether facial expressions are innate or learned; T:first)
+0.88 Context(Ekman set out,List([29, 48))):(Ekman; set out to determine; whether facial expressions are innate or learned)
+0.72 Context(Ekman set out to determine,List([29, 61))):(facial expressions; are; innate or learned)
+
+Television pictures showed police officers climbing over the roof and entering the offices of two related companies, Tatari Design and Tatex Trading G.m.b.H., in Fitzbek, a village 35 miles from Hamburg.
+0.94 (police officers; entering; the offices of two related companies, Tatari Design and Tatex Trading G.m.b.H., in Fitzbek)
+0.94 (Television pictures; showed; police officers climbing over the roof and entering the offices of two related companies, Tatari Design and Tatex Trading G.m.b.H., in Fitzbek)
+0.88 Context(Television pictures showed,List([0, 26))):(police officers; climbing; over the roof)
+
+The number of passengers on Lufthansa's domestic routes declined 5.5 percent in the first half, even as overall passenger numbers rose 3 percent.
+0.96 (The number of passengers on Lufthansa's domestic routes; declined; 5.5 percent; T:in the first half)
+
+A spokesman for Hayden said Sunday that the senator was looking at several areas for possible legislation, including clarification of existing laws dealing with stalking and trespassing.
+0.77 (existing laws; dealing; with stalking and trespassing)
+0.89 (A spokesman for Hayden; said; T:Sunday; that the senator was looking at several areas for possible legislation, including clarification of existing laws)
+0.92 Context(A spokesman for Hayden said,List([0, 27))):(the senator; was looking; at several areas for possible legislation, including clarification of existing laws)
+
+Pale strawberries soaked in a water-based liquid are lined up beside richly colored berries soaked in a balsamic vinegar-brown sugar sauce that stained them vivid red.
+0.93 (Pale strawberries; soaked; L:in a water-based liquid)
+0.91 (Pale strawberries; are lined up; L:beside richly colored berries)
+0.91 (richly colored berries; soaked; L:in a balsamic vinegar-brown sugar sauce)
+0.87 (a balsamic vinegar-brown sugar sauce; stained; them; vivid red)
+
+The troubled answers about the campaign against terrorism at home and abroad conveyed a similar fatalistic, slightly cranky mood.
+0.94 (The troubled answers about the campaign against terrorism at home; abroad conveyed; a similar fatalistic)
+
+Born in New York City to Greek parents, she returned with her mother to Greece at 14 and entered the conservatory in Athens.
+0.45 (she; returned; to Greece; T:at 14)
+0.46 (she; entered; the conservatory; L:in Athens)
+
+The principal opposition parties boycotted the polls after accusations of vote-rigging, and the only other name on the ballot was a little-known challenger from a marginal political party.
+0.92 (The principal opposition parties; boycotted; the polls; T:after accusations of vote-rigging)
+0.97 (the only other name on the ballot; was; a little-known challenger from a marginal political party)
+
+If the other driver is amenable, the agent said he analyzes the client's policy to determine whether paying for all the damages will cost less money than paying a premium increase over six years.
+0.83 (the other driver; is; amenable)
+0.86 (the agent; said; he analyzes the client's policy to determine whether paying for all the damages will cost less money than paying a premium increase over six years)
+0.39 Context(the agent said,List([33, 47))):(he; analyzes; the client's policy)
+
+Sacks wrote of how he observed the brothers one day at a state mental hospital as they sat in apparent rapture exchanging six-figure primes that they seemed to pull from their heads.
+0.84 (Sacks; wrote; of how he observed the brothers one day at a state mental hospital)
+0.84 (six-figure primes; to pull; from their heads)
+0.45 (he; observed; the brothers; T:one day; L:at a state mental hospital)
+0.68 (they; sat; in apparent rapture; exchanging six-figure primes)
+0.30 (they; exchanging; six-figure primes that they seemed to pull from their heads)
+
+If Calcavecchia plays Friday morning, he knows the importance of starting well, because the Americans have a recent history of falling behind early.
+0.93 (Calcavecchia; plays; T:Friday morning)
+0.68 (he; knows; the importance of starting well; because the Americans have a recent history of falling behind early)
+0.93 (the Americans; have; a recent history of falling behind early)
+
+Or it can maintain and expand a safety net that is already larger than many people had thought, possibly giving more discouraged workers reason to depend on a government check.
+0.19 (it; can maintain; )
+0.90 (more discouraged workers; to depend; on a government check)
+0.20 (it; expand; a safety net that is already larger)
+0.92 (a safety net; is; T:already; larger than many people had thought,)
+0.69 (many people; had thought; )
+0.83 Context(many people had thought,List([71, 94))):(many people; had thought possibly giving; more discouraged workers; reason to depend on a government check)
+
+Some people say Barack Obama was not born in the United States.
+0.90 (Some people; say; Barack Obama was not born in the United States)
+0.92 Context(Some people say,List([0, 15))):(Barack Obama; was not born; L:in the United States)
+
+Early astronomers believe that the earth is the center of the universe.
+0.73 (Early astronomers; believe; that the earth is the center of the universe)
+0.91 Context(Early astronomers believe,List([0, 25))):(the earth; is; the center of the universe)
+0.39 (the earth; is the center of; the universe)
+
+Microsoft co-founder Bill Gates spoke at a conference on Monday.
+0.95 (Microsoft co-founder Bill Gates; spoke; L:at a conference; T:on Monday)
+
+I learned that the 2012 Sasquatch music festival is scheduled for May 25th until May 28th.
+0.32 (I; learned; that the 2012 Sasquatch music festival is scheduled for May 25th until May 28th)
+0.94 Context(I learned,List([0, 9))):(the 2012 Sasquatch music festival; is scheduled; for May 25th; T:until May 28th)
+
+Among professionals, 76 % have a favorable opinion of her, compared to 62 % who approve of her husband's performance.
+0.90 (76 %; have; a favorable opinion of her; L:Among professionals)
+0.81 (62 %; approve; of her husband's performance)
+
+Under the proposal by Equitec, a financially troubled real-estate syndicator, New York-based Hallwood Group Inc. would replace Equitec as the newly formed master limited partnership's general partner and manager.
+0.92 (the newly formed master; limited; partnership's)
+
+Among nonsmokers, birth control pills slightly raise a woman's risk of abnormal blood clotting, high blood pressure, heart attack, and stroke.
+0.95 (birth control pills; slightly raise; a woman's risk of abnormal blood clotting; L:Among nonsmokers)
+
+Among professionals, 76 % have a favorable opinion of her, compared to 62 % who approve of her husband's performance.
+0.90 (76 %; have; a favorable opinion of her; L:Among professionals)
+0.81 (62 %; approve; of her husband's performance)
+
+Among professionals, 76 % have a favorable opinion of her, compared to 62 % who approve of her husband's performance.
+0.90 (76 %; have; a favorable opinion of her; L:Among professionals)
+0.81 (62 %; approve; of her husband's performance)
+
+It is the presence of internal and external "enemies" which justifies the need for a large, active army that Mikhail Gorbachev's Soviet Union continues to supply with bullets.
+0.64 (It; is; the presence of internal and external "enemies" which justifies the need for a large, active army)
+0.93 (the presence of internal and external "enemies; justifies; the need for a large, active army)
+0.93 (Mikhail Gorbachev's Soviet Union; continues; to supply with bullets)
+0.89 Context(Mikhail Gorbachev 's Soviet Union continues,List([109, 151))):(a large, active army; to supply; with bullets)
+
+At the Southern Commercial Convention of 1854, Pike said the South should remain in the Union and seek equality with the North, but if the South "were forced into an inferior status, she would be better out of the Union than in it".
+0.93 (the South; seek; equality with the North)
+0.91 (the South; were forced; into an inferior status)
+0.97 (Pike; said; the South should remain in the Union and seek equality with the North; L:At the Southern Commercial Convention of 1854)
+0.92 Context(Pike said,List([47, 56))):(the South; should remain; in the Union)
+0.29 Context(Pike said,List([47, 56))):(she; would be; better out of the Union than in it)
+
+On June 10, the Reds were playing the first place St. Louis Cardinals at Crosley Field and trailing 13-0 in the ninth inning when Manager Bill McKechnie called on Nuxhall to enter the game.
+0.96 (the Reds; were playing; the first place; T:On June 10)
+0.97 (the Reds; trailing; 13-0; L:in the ninth inning; T:when Manager Bill McKechnie called on Nuxhall to enter the game; T:On June 10)
+0.90 (Manager Bill McKechnie; called; to enter the game)
+0.87 Context(Manager Bill McKechnie called,List([130, 159))):(Manager Bill McKechnie; called to enter; the game)
+
+Singer Bette Midler won a $ 400,000 federal court jury verdict against Young & Rubicam in a case that threatens a popular advertising industry practice of using "sound-alike" performers to tout products.
+0.97 (Singer Bette Midler; won; a $ 400,000 federal court jury verdict against Young & Rubicam; L:in a case)
+0.93 (a case; threatens; a popular advertising industry practice of using "sound-alike" performers to tout products)
+
+It is a distinction that satisfies neither side in the debate.
+0.29 (It; is; a distinction that satisfies neither side in the debate)
+0.89 (a distinction; satisfies; neither side; L:in the debate)
+
+Operating profit at Colgate's U.S. household products and personal care businesses, which include such well-known brands as Colgate toothpaste and Fab laundry detergent, jumped more than 40 %, the company said.
+0.94 (personal care businesses; include; such well-known brands as Colgate toothpaste and Fab laundry detergent)
+0.99 (Operating profit at Colgate's U.S. household products and personal care businesses, which include such well-known brands as Colgate toothpaste and Fab laundry detergent, jumped more than 40 %; said; the company)
+0.96 Context(Operating profit at Colgate 's U.S. household products and personal care businesses , which include such well - known brands as Colgate toothpaste and Fab laundry detergent , jumped more than 40 % said,List([0, 209))):(Operating profit at Colgate's U.S. household products and personal care businesses; jumped; more than 40 %)
+
+Guillermo Billinghurst was overthrown on February 4, 1914, in a military coup headed by colonel Oscar R. Benavides, Javier and Manuel Prado, and conservatives members of the Civilista Party.
+0.94 (Guillermo Billinghurst; was overthrown; T:on February 4; L:in a military coup)
+0.95 (a military coup; headed; by colonel Oscar R. Benavides, Javier and Manuel Prado)
+
+While in the CF, he completed the year-long course at the Canadian Forces Command and Staff College and received a Master of Arts in war studies degree from Royal Military College of Canada, student # G0053 in 1980.
+0.64 (he; completed; the year-long course; T:in the CF)
+0.60 (he; received; a Master of Arts in war studies degree; from Royal Military College of Canada; T:in 1980; L:in the CF)
+0.39 (Canada; [is]; student)
+
+Denis C. Smith was named to the new post of vice president of world-wide advanced materials operations for this chemicals concern.
+0.96 (Denis C. Smith; was named; to the new post of vice president of world-wide advanced materials operations for this chemicals concern)
+
+On July 16 2008, Hezbollah transferred the coffins of captured Israeli soldiers, Ehud Goldwasser and Eldad Regev, in exchange for Samir Kuntar and four other Hezbollah members captured by Israel during the 2006 Lebanon War, as well as the remains of 199 Lebanese and Palestinians.
+0.98 (Hezbollah; transferred; the coffins of captured Israeli soldiers; in exchange for Samir Kuntar and four other Hezbollah members captured by Israel during the 2006 Lebanon War, as well as the remains of 199 Lebanese and Palestinians; T:On July 16 2008)
+0.95 (four other Hezbollah members; captured; by Israel; T:during the 2006 Lebanon War)
+
+Amuro returned to solo activities on her own with the single "Shine More", released on March 6, 2003.
+0.93 (Amuro; returned; to solo activities; with the single "Shine More; released on March 6)
+
+Most coastal scyphozoans go through a stage as small polyps during their life cycle, whereas those that live in the open ocean generally lack the polyp stage altogether.
+0.92 (Most coastal scyphozoans; go; through a stage as small polyps during their life cycle)
+0.92 (those that live in the open ocean; generally lack altogether; the polyp stage)
+0.17 Context(those that live in the open ocean generally lack altogether,List([93, 168))):(those; live; L:in the open ocean)
+
+During his time as a student in Berlin, he was involved in the building of the 145 m long "Tunnel 57" below the Berlin Wall, which was the escape route of 57 people from East Berlin to the West.
+0.49 (he; was involved; in the building of the 145 m; T:During his time as a student in Berlin)
+0.97 (the Berlin Wall; was; the escape route of 57 people from East Berlin to the West)
+
+The Skeleton King later merged with the demon Dark One, only to have him decapitated by the Hyperforce.
+0.95 (The Skeleton King; merged; with the demon; T:later)
+
+Christie made a splash with her extraordinary performance as Jane Bennet in ITV's critically acclaimed miniseries Lost in Austen, a modern twist on Austen's Pride & Prejudice.
+0.92 (Christie; made; a splash with her extraordinary performance as Jane Bennet in ITV's critically acclaimed miniseries)
+0.96 (ITV's critically acclaimed miniseries; Lost; L:in Austen)
+0.38 (Austen; [is] a modern twist on; Austen)
+
+Some people say Barack Obama was born in Kenya.
+0.90 (Some people; say; Barack Obama was born in Kenya)
+0.92 Context(Some people say,List([0, 15))):(Barack Obama; was born; L:in Kenya)
+
+The U.S. president Barack Obama gave his speech on Tuesday to thousands of people.
+0.92 (The U.S. president Barack Obama; gave; his speech; T:on Tuesday; to thousands of people)
+0.38 (Barack Obama; [is] president [of]; United States)
+
+John ran down the road to fetch a pail of water.
+0.86 (John; ran; down the road; to fetch a pail of water)
+0.82 Context(John ran,List([0, 8))):(John; ran down the road to fetch; a pail of water)
+
+The guide contains dead links and omits sites.
+0.90 (The guide; contains; dead links and omits sites)
+
+The Mark 14 was central to the torpedo scandal of the fleet.
+0.95 (The Mark 14; was; central to the torpedo scandal of the fleet)
+
+They recalled that Nungesser began his career as a precinct leader.
+0.23 (They; recalled; that Nungesser began his career as a precinct leader)
+0.83 Context(They recalled,List([0, 13))):(Nungesser; began; his career as a precinct leader)
+
+David Miscavige learned that after Tom Cruise divorced Mimi Rogers, he was pursuing Nicole Kidman.
+0.94 (Tom Cruise; divorced; Mimi Rogers)
+0.79 (David Miscavige; learned; that after Tom Cruise divorced Mimi Rogers, he was pursuing Nicole Kidman)
+0.59 Context(David Miscavige learned,List([0, 23))):(he; was pursuing; Nicole Kidman; T:after Tom Cruise divorced Mimi Rogers)
+
+Cycles is an album by Frank Sinatra.
+0.93 (Cycles; is; an album by Frank Sinatra)
+
+Thomas Harris is the author of the book Hannibal.
+0.94 (Thomas Harris; is; the author of the book)
+0.89 (Thomas Harris; is the author of; the book)
+
+Am I right in assuming Santa Cruz is a city in California?
+
+Mumbai has a population of many millions.
+0.94 (Mumbai; has; a population of many millions)
+
+Whoever has a Ph.D. in Mathematics can make it big in Computer Science.
+0.92 (Whoever has a Ph.D. in Mathematics; can make; it big in Computer Science)
+
+Hitchcock has a cameo in most or all of his movies.
+0.89 (Hitchcock; has; a cameo in most or all of his movies)
+
+America made a deal with Mexico.
+0.93 (America; made; a deal with Mexico)
+
+The sun made a promise to the moon about rising tomorrow.
+0.90 (The sun; made; a promise)
+
+My birthday party took place in a brightly lit dungeon with dragons.
+0.66 (My birthday party; took; place; L:in a brightly lit dungeon with dragons)
+
+Remote took control over the local master.
+0.54 (Remote; took; control; over the local master)
+
+The savant took advantage of ads wanting SUVs.
+0.90 (The savant; took; advantage; of ads)
+0.84 (ads; wanting; SUVs)
+
+The bulb lighting up gave birth to an idea!
+0.92 (The bulb lighting up; gave; birth; to an idea)
+
+Tim Urban gave a talk at short notice.
+0.93 (Tim Urban; gave; a talk at short notice)
+
+Deadpool gave new meaning to action comedy.
+0.92 (Deadpool; gave; new meaning; to action comedy)
+
+I did not get tickets to LA in time.
+0.45 (I; did not get; tickets; T:in time)
+
+Everytime I get a deal on anything I don't need, I end up buying it.
+0.87 (anything; do n't need; I)
+0.27 (I; buying; it)
+0.26 (I; end up; buying it)
+0.46 Context(I end up,List([49, 57))):(I; get; a deal on anything)
+
+The Master's student got funding from the college just by the virtue of being pure awesome.
+0.95 (The Master's student; got; funding; from the college)
+
+After winning the Superbowl, the Saints are now the top dogs of the NFL.
+0.96 (the Saints; are; T:now; the top dogs of the NFL; T:After winning the Superbowl)
+
+There are plenty of taxis available at Bali airport.
+
+Microsoft co-founder Bill Gates spoke at Atlanta.
+0.95 (Microsoft co-founder Bill Gates; spoke; L:at Atlanta)
+
+Early astronomers believed that the earth is the center of the universe.
+0.73 (Early astronomers; believed; that the earth is the center of the universe)
+0.91 Context(Early astronomers believed,List([0, 26))):(the earth; is; the center of the universe)
+0.39 (the earth; is the center of; the universe)
+
+If he wins five key states, Romney will be elected President.
+0.52 (he; wins; five key states)
+0.93 (Romney; will be elected; President)
+
+She was a little anxious early on.
+0.28 (She; was; a little anxious; T:early on)
+
+The other five are still alive and will be allowed to return home if they want.
+0.34 (The other five; are; T:still; alive)
+0.38 (they; want; )
+
+The yield spread between an index of option-free 10-year "A2" bank bonds and the 10-year Treasury note was 70 basis points yesterday, 2 basis points wider from a week earlier.
+0.95 (The yield; spread; L:between an index of option-free 10-year "A2" bank bonds and the 10-year Treasury note)
+0.99 (The yield spread between an index of option-free 10-year "A2" bank bonds and the 10-year Treasury note; was wider; T:yesterday)
+
+The Rams sorely miss departed third receiver Az Hakim.
+0.93 (The Rams; sorely miss; departed third receiver)
+
+The board of directors of UAL, the parent company of United Airlines, is likely to name Glenn F. Tilton, an oil industry executive, as the airline's new president and chief executive in a meeting Monday morning, according to people with knowledge of the situation.
+0.98 (The board of directors of UAL; is; likely to name Glenn F. Tilton, an oil industry executive, as the airline's new president and chief executive in a meeting Monday morning, according to people with knowledge of the situation)
+0.97 (The board of directors of UAL; to name; Glenn F. Tilton; as the airline's new president and chief executive in a meeting Monday morning)
+0.38 (UAL; [is] the parent company of; United Airlines)
+0.39 (Glenn F. Tilton; [is]; an oil industry executive)
+
+The rules were written to encourage diversity of voices on the airwaves and competition among media outlets, and to prevent the biggest companies from becoming too powerful in controlling news and entertainment.
+0.94 (The rules; were written; to encourage diversity of voices on the airwaves and competition among media outlets, and to prevent the biggest companies from becoming too powerful in controlling news and entertainment)
+0.91 (the biggest companies; from becoming; too powerful in controlling news and entertainment)
+0.90 (the biggest companies; in controlling; news and entertainment)
+
+There should be about 3 cups vegetables chopped medium fine.
+
+Some think the blend is more weighted toward expedience.
+0.56 (Some; think; the blend is more weighted toward expedience)
+0.91 Context(Some think,List([0, 10))):(the blend; is; more weighted toward expedience)
+
+They litter the road to redemption with chaos, contraband, broken marriages, jilted women and political aspirations, but there still is a ray of hope and happiness for the residents of a small Cuban town called Guantanamera.
+0.72 (They; litter; the road to redemption; with chaos, contraband, broken marriages, jilted women and political aspirations)
+0.93 (a small Cuban town; called; Guantanamera)
+
+Pat Day, the winning jockey, agreed that Royal Indy had been "a little hot and nervous" before the race, but added : "She always seems to be like that, so I wasn't that concerned".
+0.08 (She; to be; like that)
+0.84 (the winning jockey; agreed; that Royal Indy had been; T:Pat Day)
+0.74 Context(the winning jockey agreed,List([9, 35))):(Royal Indy; had been; )
+0.12 (I; was n't; that concerned)
+
+A Swiss Bank spokesman in Basel, Michel Willi, declined to comment on the talks, as did a spokesman in London.
+0.92 (A Swiss Bank spokesman in Basel; declined; to comment on the talks)
+0.92 Context(A Swiss Bank spokesman in Basel declined,List([0, 55))):(A Swiss Bank spokesman in Basel; declined to comment; on the talks)
+
+The dollar often declines when U.S. Treasury officials express concern that Japan may be trying to boost its economy through exports.
+0.84 (The dollar; declines; T:when U.S. Treasury officials express concern that Japan may be trying to boost its economy through exports; T:often)
+0.84 (U.S. Treasury officials; express; concern that Japan may be trying to boost its economy through exports)
+0.83 (Japan; may be trying; to boost its economy through exports)
+0.83 Context(Japan may be trying,List([76, 95))):(Japan; may be trying to boost; its economy; through exports)
+
+His memory was a good deal better about White House management of the DNC, especially its fund-raising operations.
+0.82 (His memory; was; a good deal better about White House management of the DNC)
+
+His legislation would allow tax-free savings for expenses, including tuition, for any school, public, private or religious.
+0.74 (His legislation; would allow; tax-free savings for expenses, including tuition, for any school, public, private or religious)
+
+Had I known then what I know now, I might have argued for a different arrangement.
+0.45 (I; might have argued; for a different arrangement)
+
+I showed him 15 photographs which represented what I felt the movie should look and feel like.
+0.42 (I; showed; him; 15 photographs which represented what I felt the movie should look and feel like)
+0.74 (the movie; feel; like)
+0.84 (15 photographs; represented; what I felt the movie should look and feel like)
+0.46 Context(15 photographs represented,List([13, 45))):(I; felt; the movie should look and feel like)
+0.68 Context(15 photographs represented I felt,List([13, 57))):(the movie; should look; )
+
+One of the most disturbing factors for Rohrabacher is that there has never been any formal apology from any of the Japanese companies.
+0.88 (One of the most disturbing factors for Rohrabacher; is; that there has never been any formal apology from any of the Japanese companies)
+
+Also, on a recent afternoon, the waves were so small and punchless that they couldn't even provide sufficient lift for a 165-pound bodysurfer.
+0.84 (the waves; were; so small and punchless that they couldn't even provide sufficient lift for a 165-pound bodysurfer; T:on a recent afternoon)
+0.62 (they; could n't even provide; sufficient lift; for a 165-pound bodysurfer)
+
+Or it can maintain and expand a safety net that is already larger than many people had thought, possibly giving more discouraged workers reason to depend on a government check.
+0.19 (it; can maintain; )
+0.90 (more discouraged workers; to depend; on a government check)
+0.20 (it; expand; a safety net that is already larger)
+0.92 (a safety net; is; T:already; larger than many people had thought,)
+0.69 (many people; had thought; )
+0.83 Context(many people had thought,List([71, 94))):(many people; had thought possibly giving; more discouraged workers; reason to depend on a government check)
+
+Edge Rams Offensive linemen "Texans are passionate about cooking briskets", McAdams adds.
+0.91 (Texans; about cooking; briskets)
+0.97 (Texans are passionate about cooking briskets; adds; McAdams)
+0.90 Context(Texans are passionate about cooking briskets adds,List([29, 88))):(Texans; are; passionate about cooking briskets)
+

@@ -1,0 +1,1028 @@
+0	they	plan raise	premiums	0.643515258155
+0	they	plan reduce	benefits	0.643515258155
+1	The two-year note 's yield	was unchanged at	5.95 percent	0.663006753907
+2	The 12	is	$ 70.00	0.932481095725
+3	The principal opposition parties	boycotted	the polls	0.861337182626
+3	the only other name	was	a little-known challenger	0.932481095725
+4	Gallery hours	are	11 a.m.	0.932481095725
+5	A Spanish official	had finished	a siesta	0.861337182626
+5	the portable facilities	were n't in	service	0.999999
+6	The current El Nino	is	the weather event of the century	0.932481095725
+6	a complicated and vaguely understood series of phenomena	affect	weather	0.861337182626
+6	the super-hype	preceding	it	0.544519809246
+7	he	has eased up on	team rules	0.999999
+8	she	's giving	him	0.861337182626
+8	she	's giving	everyone else	0.457814994994
+8	a megadose of New York attitude	is exaggerated in	this film	0.949556375733
+8	a megadose of New York attitude	is exaggerated as	the Southern stuff	0.949556375733
+9	Sather	sits behind	one of the nets	0.523139365787
+9	Sather	said could notice	the netting	0.52377867028
+9	whose box	sits high above	the Garden ice	0.276743142946
+9	whose box	sits behind	one of the nets	0.999999
+9	he	could notice	the netting	0.861337182626
+10	Eight percent	went to	Europe	0.999999
+10	Eight percent	went went to	other regions	0.550434092898
+10	1 percent	went to	other regions	0.999999
+11	he	left	the UN building	0.861337182626
+11	he	hoped	a first step	0.49741497263
+11	Iraq 's announcement	was	a first step	0.932481095725
+12	A backdrop of steady economic growth	provided	support	0.861337182626
+13	His teammates	loved	the show	0.861337182626
+14	The Revolution	gave up	a 90th-minute goal	0.861337182626
+14	The Revolution	gave up	Sept. 16	0.489914696722
+15	consumers	have decided have	enough stuff	0.52377867028
+15	consumers	have decided are salting away	money	0.52377867028
+15	consumers	have decided are salting away	it	0.243793821718
+15	they	have	enough stuff	0.861337182626
+15	they	are salting away	money	0.861337182626
+15	they	are salting away	it	0.489914696722
+16	He	threw	three scoreless innings	0.861337182626
+16	Seattle	to climb into	the game	0.999999
+17	Programmers	enter	a season	0.861337182626
+17	Programmers	enter entered	a season	0.52377867028
+17	a season	worried about	the future of specific programs	0.690722313548
+18	A spokesperson	was not available for	comment	0.663006753907
+20	Output	was reduced in	1996	0.949556375733
+20	one of its three furnaces	exploded killing	one worker	0.643515258155
+21	The Residential Internship Program	should meet	the district 's needs	0.861337182626
+23	She	's	a hard act to follow	0.932481095725
+24	Most epidemiologists	say stems from	a genetic dysfunction	0.729751202893
+24	Most epidemiologists	say stems from genetic dysfunction	a short circuit	0.101488848096
+24	the disorder	stems from	a genetic dysfunction	0.999999
+24	the disorder	stems from genetic dysfunction	a short circuit	0.511534125438
+26	It	took	an interception of a Warren Moon pass	0.861337182626
+27	she	would concern	herself	0.861337182626
+28	we	see	fit	0.861337182626
+29	Congress	holds to consider	anti-road-rage legislation	0.643515258155
+29	hearings	to consider	anti-road-rage legislation	0.861337182626
+30	I	smoke	one	0.861337182626
+31	I	've	19 years	0.932481095725
+31	it	never been 's	a good time	0.428152234507
+32	some conglomerates	have bumped up like	Viacom	0.999999
+32	some conglomerates	have bumped up like	the News Corp.	0.999999
+32	some conglomerates	have bumped up against	the limits of the rules	0.999999
+34	He	died to	hospital	0.999999
+35	The benchmark 30-year bond	rose	3\/8	0.861337182626
+35	The benchmark 30-year bond	rose	$ 3.75	0.861337182626
+35	The benchmark 30-year bond	rose pushing	its yield	0.643515258155
+36	It	begins	life	0.861337182626
+37	Part of this indifference	is caused by	the unearned cynicism of the age	0.846956589601
+38	These immigrants	deserve	consideration	0.861337182626
+38	the laws	were in	place	0.999999
+38	they	applied for	asylum	0.999999
+38	who	would change	the current law	0.519874745839
+38	the lead sponsor of House legislation	(L-rcmod)	that	0.405955392382
+40	girly fantasy	make	this Reese Witherspoon vehicle	0.861337182626
+40	the occasional moment of reality	make	this Reese Witherspoon vehicle	0.861337182626
+41	He	stepped of	his Mercedes	0.999999
+41	He	stood among	dozens of other stupefied commuters	0.999999
+42	Giorgio	began getting	headaches	0.643515258155
+43	Koplowitz 's next concert	will be	a more modest affair	0.932481095725
+43	Koplowitz 's next concert	presented	indoors	0.861337182626
+45	It	did n't specify	goods	0.558650984325
+45	which	(R-nsubj)	goods	0.932481095725
+47	The scandal	has forced	resignations	0.861337182626
+48	It	said wanted	the court	0.52377867028
+48	it	wanted	the court	0.861337182626
+49	Calcavecchia	plays	Friday	0.489914696722
+49	Calcavecchia	plays	morning	0.489914696722
+49	Calcavecchia	plays knows	the importance	0.412556709348
+49	he	knows	the importance	0.861337182626
+49	he	knows have	a recent history	0.423555309517
+49	the Americans	have	a recent history	0.861337182626
+50	Chris Floyd 's dive	put	Michigan	0.861337182626
+51	Charles Darwin	had written in	1872	0.999999
+51	social scientists of the 1960s and 1970s	believed are learned through	culture	0.729751202893
+51	expressions	are learned through	culture	0.949556375733
+52	The Hearst News Service	will file	the following	0.861337182626
+52	The Hearst News Service	will file the following for	Wednesday	0.331042364029
+53	Deputies	said let	Tuesday night	0.243793821718
+53	many as 57 deputies	were	members of Fatah	0.932481095725
+53	many as 57 deputies	let know in	a meeting	0.729751202893
+53	many as 57 deputies	let	Tuesday night	0.489914696722
+53	Arafat	know in	a meeting	0.999999
+54	the new Cadillac SRX	will become	one of the newest entrants	0.932481095725
+55	It	's	an effective , maybe even subversive , way	0.932481095725
+55	It	's way to get	the message	0.323004328671
+56	investors	kept selling off	stocks	0.643515258155
+56	investors	deregulated	power companies	0.861337182626
+56	power companies	spurred	Monday	0.375100195172
+56	power companies	spurred by	negative news	0.543496207298
+56	Miller	have won	19 straight decisions	0.861337182626
+56	Roy Oswalt	have won	19 straight decisions	0.861337182626
+56	they	're	a combined 21-1	0.932481095725
+56	they	're combined 21-1 with	a 2.41 ERA	0.482749934462
+57	Organogenesis Inc. of Canton Monday	ended	its troubled six-year relationship	0.861337182626
+57	Organogenesis Inc. of Canton Monday	ended terminating	a marketing agreement	0.643515258155
+57	Organogenesis	to file for	bankruptcy protection	0.999999
+57	Organogenesis	to file	this week	0.489914696722
+58	Democrats	released	a report	0.861337182626
+58	Democrats	released putting	the likely price tag	0.643515258155
+59	ONE OF THOSE DAYS	retired in	1977	0.999999
+60	Extendicare Inc.	assumed	debt	0.861337182626
+60	Extendicare Inc.	doubling	its Florida and Ohio businesses	0.861337182626
+60	Extendicare Inc.	doubling	care providers	0.861337182626
+60	it	(R-nsubj)	one of North America 's largest long-term health	0.932481095725
+61	She	began	her career	0.861337182626
+62	This	leads to	one of two inescapable conclusions	0.999999
+64	The first photograph of the fatal crash	appeared on	the front page of Bild Zeitung Monday	0.999999
+66	Tropical Storm Edouard	will meander about	125 miles	0.999999
+66	the Georgia coast	causing	surf	0.861337182626
+66	the Georgia coast	causing to build along	parts of the Southeast Coast	0.728613472032
+67	The drill	has	a keyless chuck	0.861337182626
+67	The drill	has	a built-in level	0.861337182626
+67	The drill	has	nonslip texturing	0.861337182626
+67	The drill	has nonslip texturing to provide	a firm grip	0.314199657123
+69	he	faced first batter	Carl Everett	0.56619632982
+70	Rhodes	discovered had	cancer	0.52377867028
+70	Rhodes	discovered had	last October	0.243793821718
+70	he	had	cancer	0.861337182626
+70	he	had	last October	0.489914696722
+70	he	had felt	a sharp pain	0.423555309517
+70	he	felt	a sharp pain	0.861337182626
+71	Graham	threw	four touchdown passes	0.357618183772
+71	Graham	set up	Groza 's 16-yard winning field goal	0.357618183772
+71	Graham	left on	a frozen field	0.999999
+73	That	's	a lot of maybes	0.932481095725
+73	a sport	happens with	a shot	0.523139365787
+73	the right thing	happens with	a shot	0.999999
+73	Mike Tyson	having disappeared knows of	the sleight of hand of promoter Don King	0.550434092898
+73	Ruiz	knows must turn in	another direction	0.729751202893
+73	he	must turn in	another direction	0.999999
+73	he	must turn wants	the multimillion-dollar payday	0.423555309517
+73	he	wants	the multimillion-dollar payday	0.861337182626
+73	the multimillion-dollar payday	's been seeking for	two years	0.523139365787
+73	he	's been seeking for	two years	0.949556375733
+74	DeLillo	has described	the simultaneous explosion of knowledge	0.861337182626
+74	the spread of Dark Age superstitions	replaced by	the bloodless , invasive connections	0.543496207298
+74	the bloodless , invasive connections	spawned by	the World Wide Web	0.543496207298
+75	Salim	said unrelated to	the escape plan	0.361389284135
+75	Salim	said stemmed from	his dissatisfaction	0.729751202893
+75	the stabbing	was unrelated to	the escape plan	0.663006753907
+75	the stabbing	stemmed from	his dissatisfaction	0.999999
+76	the government	will reduce	spending	0.861337182626
+77	The group 's attacks	give	it	0.468260963304
+77	The group 's attacks	give	common cause	0.861337182626
+78	I	showed	him	0.468260963304
+78	I	showed	15 photographs	0.861337182626
+78	15 photographs	represented felt	what	0.148678475108
+79	a process	called	transactivation	0.544519809246
+80	Only 19 percent of a national sample of 1,051 adults	surveyed	late last week	0.375100195172
+80	they	believed would reduce	the number of teen-agers	0.52377867028
+80	the accord	would reduce	the number of teen-agers	0.861337182626
+80	the number of teen-agers	begin	smoking	0.861337182626
+81	it	is dominated by	a six-story rotunda	0.846956589601
+82	The companies	have been in	business	0.999999
+83	Calcavecchia	has looked finishing in	the top 35	0.728613472032
+84	prices	rose	$ 2.50	0.861337182626
+84	wholesale	equaled pack	about 5 cents	0.0640323339191
+84	wholesale	equaled	a pack	0.861337182626
+86	workers	has been turned into	a park	0.949556375733
+86	workers	has been turned into park	a memorial	0.681896727549
+86	clear rubble	has been turned into	a park	0.949556375733
+86	clear rubble	has been turned into park	a memorial	0.681896727549
+86	the Cooperative Bank Building	has been renovated House of	the site of the embassy	0.128064667838
+87	the average rate of new starts	remains close to	the eight-year high of 1.476 million new starts	0.663006753907
+87	the eight-year high of 1.476 million new starts	recorded in	1996	0.690722313548
+88	Sikes	should apply for	workman 's compensation	0.999999
+89	the Jets	used	some new alignments	0.861337182626
+89	John Abraham	lined up on	on one side	0.999999
+89	Shaun Ellis	lined up on	on one side	0.999999
+89	Mo Lewis	rushed from	the other	0.999999
+90	the department	has increased	the number of cattle	0.861337182626
+92	She	sought out	the untouchables of our society	0.861337182626
+92	she	touched	them	0.861337182626
+93	You	can venture out	100 yards	0.861337182626
+93	You	find	the water	0.861337182626
+95	Farris	was replaced by	sophomore Dustin Long	0.846956589601
+95	sophomore Jason Carter	played in	the opener	0.999999
+95	freshman Reggie McNeal	played in	the opener	0.999999
+96	BIGGEST CONCERNS Express pilots	have	no pension	0.861337182626
+97	Japanese automakers	have taken	some of the biggest strides	0.861337182626
+98	God	had	a plan	0.861337182626
+98	me	to be around for	a little while	0.221515480575
+99	you	'll get	comparisons	0.861337182626
+100	Katzenberg	is feuding with	former employer Disney	0.999999
+100	he	was denied animated	films	0.343056558949
+100	his cut of the Disney	animated	films	0.861337182626
+101	1,200-degree air	is pumped to	the turbine blades	0.949556375733
+103	M2 + CDs	rose	3.0 percent	0.861337182626
+104	the poverty rate	rose	a half percentage point	0.861337182626
+105	BSA	seized	items	0.861337182626
+105	c. 2002 SAN FRANCISCO CHRONICLE City Supervisor Tom Ammiano	sponsored	the law	0.861337182626
+105	c. 2002 SAN FRANCISCO CHRONICLE City Supervisor Tom Ammiano	said	a matter	0.49741497263
+105	many	were	a matter	0.932481095725
+105	many	were matter of getting	the new system	0.331042364029
+106	everyone	reverted to	their traditional duties	0.999999
+107	the Alden Trust	have contributed	$ 1.7 million	0.861337182626
+107	the other foundations	controlled by	the firm	0.543496207298
+107	the other foundations	have contributed	$ 1.7 million	0.861337182626
+108	elegant souls	consider	such journalism	0.861337182626
+109	the	blend weighted toward	expedience	0.361389284135
+110	Trucking companies	have rebounded after	years of laggard performance	0.999999
+111	you	have	questions	0.861337182626
+111	you	have please	call Susie McBee	0.412556709348
+111	you	have please	Tim Spence	0.412556709348
+113	His legislation	would allow	tax-free savings	0.861337182626
+113	His legislation	would allow tax-free savings	public , private or religious	0.0640323339191
+114	Bullion	rose fell against	the yen	0.550434092898
+114	the U.S. dollar	fell against	the yen	0.999999
+114	it	cheaper for	investors	0.663006753907
+114	investors	using	other major currencies	0.544519809246
+114	investors	using to buy	the precious metal	0.165521182015
+115	Solutia	is saddled with	$ 1 billion	0.949556375733
+115	Solutia	is saddled with	environmental liabilities	0.949556375733
+116	A grocery store strike	offer	reason	0.861337182626
+116	Kroger Co.	offer	reason	0.861337182626
+116	3,300 union employees	offer	reason	0.861337182626
+116	Both strikes	involve	Kroger stores	0.861337182626
+116	both	began in	early October	0.999999
+116	both	have been mediated by	federal officials	0.846956589601
+118	Those three	were apprehended	Sunday	0.525982024862
+119	The most unpopular agencies	are	those	0.932481095725
+119	he	noted	those	0.212710809027
+120	3 cups vegetables	chopped	medium fine	0.357618183772
+122	Kidd , 29	extended	his current contract	0.861337182626
+122	Kidd , 29	extended ago	years	0.23694779168
+122	Kidd , 29	may not sign	another extension	0.861337182626
+123	U.S. stocks	were mixed showed	unexpected strength	0.343056558949
+123	a report	showed	unexpected strength	0.861337182626
+123	a report	showed squelching	hopes	0.643515258155
+123	hopes	could boost	shares	0.861337182626
+125	Euromoney 's executives	spent	several days	0.861337182626
+125	Euromoney 's executives	spent	this week	0.489914696722
+125	they	named	editor	0.861337182626
+125	they	named to replace	Cudaback	0.643515258155
+126	they	emerge from	it	0.999999
+128	The board of directors of UAL	is likely to name	Glenn F. Tilton	0.304466544287
+130	It	will increase	luxury taxes	0.861337182626
+130	other goods	not essential for	development	0.148678475108
+130	that	are not essential for	development	0.663006753907
+131	Jim Suydam	writes for	the Austin American-Statesman	0.999999
+132	they	accept	the responsibility	0.861337182626
+133	New York	bunked with	members of a dance company	0.523139365787
+133	he	bunked with	members of a dance company	0.999999
+133	he	bunked had worked for	a stagehand	0.729751202893
+133	he	had worked for	a stagehand	0.999999
+135	Service Manufacturers ' orders	will be stronger than	the 9.1 percent growth	0.663006753907
+137	she	shed	70 pounds	0.861337182626
+137	she	became	the sleekly beautiful and charismatic musical actress of legend	0.932481095725
+138	she	returned with	her mother	0.999999
+138	she	entered	the conservatory	0.861337182626
+139	backers Stars general manager Bob Gainey	said uncomfortable with	increased team incentives	0.361389284135
+139	he	was uncomfortable with	increased team incentives	0.663006753907
+140	I	am having	my bathtubs	0.861337182626
+142	Fowler	resented	Ickes ' authority	0.861337182626
+142	Fowler	resented	his testimony affirms	0.861337182626
+142	Fowler	resented again knows	the full story of the 1996 Clinton campaign	0.128064667838
+142	Ickes	knows	the full story of the 1996 Clinton campaign	0.861337182626
+143	Wide familiarity	helps sell	its higher-end Internet software packages	0.52377867028
+143	Netscape	sell	its higher-end Internet software packages	0.861337182626
+144	Childhood cancers	make up	2 percent of all cancer cases	0.861337182626
+145	their discussion	lit	a flame	0.861337182626
+146	he	did n't fool	me	0.861337182626
+147	hurricanelike tropical cyclones	born over	the southwestern Pacific	0.690722313548
+147	hurricanelike tropical cyclones	are called	cyclones	0.715756138964
+148	The New York Stock Exchange floor	will be	a sea	0.932481095725
+148	The New York Stock Exchange floor	will be sea of	khaki-clad legs	0.960704644096
+148	The New York Stock Exchange floor	will be sea promotes	casual Fridays	0.243793821718
+148	Gap Inc.	promotes	casual Fridays	0.861337182626
+149	The spread	was changed from	yesterday	0.949556375733
+150	I	Had known might have argued for	a different arrangement	0.396348913055
+150	I	know Had known might have argued for	a different arrangement	0.0640323339191
+150	I	might have argued for	a different arrangement	0.999999
+151	Kors	used	silk	0.861337182626
+152	U.S. Sen. Paul Coverdell 's K-12 education savings	(R-nsubj)	A + Accounts	0.932481095725
+154	We	get	digressions	0.861337182626
+154	We	get digressions about	the rivalry	0.908017458852
+154	a second nuclear weapons lab	set up at	Livermore	0.690722313548
+155	He	was back in	Atlanta	0.398845798312
+155	He	was on	a non-guaranteed training camp contract	0.999999
+155	the Hawks	released	him	0.861337182626
+155	the Hawks	released could sign	a guaranteed deal	0.45716213623
+155	he	could sign	a guaranteed deal	0.861337182626
+155	he	could sign led to	the Euroleague championship	0.729751202893
+155	he	led to	the Euroleague championship	0.999999
+156	a term	bandied by	designers	0.999999
+156	call	rendered	lingerie-style details	0.464707481724
+156	they	expect to look for	opportunities	0.728613472032
+156	investors	to look for	opportunities	0.999999
+156	depressed big-company shares	have outperformed	those of smaller companies	0.861337182626
+157	A spokesman	(R-nsubj)	Sunday	0.932481095725
+157	A spokesman	Sunday was looking at	several areas	0.587970141414
+157	the senator	was looking at	several areas	0.999999
+158	Boselli	would	two more surgical procedures	0.932481095725
+158	Boselli	would more surgical procedures	a Texan	0.128064667838
+158	he	became	a Texan	0.932481095725
+159	people	stay in	bad marriages	0.999999
+159	people	stay dependent of	the unknown	0.192097001757
+159	they	are dependent of	the unknown	0.663006753907
+161	Story Filed	was rated by	Cox Newspapers	0.949556375733
+161	Story Filed	was rated by Newspapers	Dao Heng Bank Group Ltd.	0.431671865178
+161	Story Filed	was rated	`` buy	0.715756138964
+162	begged people	to come	talk	0.861337182626
+163	That	is would like	more	0.52377867028
+163	many of the POWs	would like	more	0.861337182626
+164	Forbes	speak at	the Christian Coalition convention	0.999999
+165	That	's	about 2 percentage points	0.932481095725
+165	That	's points	investment grade bonds	0.276743142946
+165	That	's points	the 6.7 percent average yield	0.488525510685
+166	The couple	was riding in	a rented Mercedes-Benz	0.999999
+166	the driver	crashed	the car	0.861337182626
+167	They	want	news of the latest United Nations debate	0.861337182626
+168	they	are investigating	trading	0.861337182626
+170	It	says will lower	tariffs	0.52377867028
+170	Indonesia	will lower	tariffs	0.861337182626
+172	The BSA suit	filed of	behalf of Microsoft Corp.	0.690722313548
+172	The BSA suit	alleged committed	software piracy	0.52377867028
+172	SM Summit	committed	software piracy	0.861337182626
+174	PointCast Inc.	provides	news and information	0.861337182626
+174	PointCast Inc.	requiring	users	0.861337182626
+174	the Net	to find	it	0.861337182626
+175	he	must find	some consistency	0.861337182626
+176	Airports	act as	heat islands	0.999999
+176	Airports	act can vary	as much as 10 degrees Fahrenheit	0.325762119452
+176	so temperatures	can vary	as much as 10 degrees Fahrenheit	0.861337182626
+177	The Rams	miss departed	third receiver Az Hakim	0.285547814494
+178	they	surrendered	deciding goals	0.715756138964
+178	they	were blanked 4-0 by	Tampa Bay	0.846956589601
+179	Eating disorders	affect	5 million to 10 million American adolescent girls and women	0.861337182626
+180	A similar bill	is pending in	the Senate	0.999999
+180	the Senate	sponsored by	Florida Sens. Connie Mack	0.543496207298
+180	the Senate	sponsored by	a Republican	0.543496207298
+180	the Senate	sponsored by	Bob Graham	0.543496207298
+180	the Senate	sponsored by Graham	a Democrat	0.221515480575
+181	Taylor	missed	only one day of school	0.861337182626
+181	she	could move	her head	0.861337182626
+181	she	lift	her writing arm	0.861337182626
+181	she	lift up to	desk level	0.371858489556
+182	you	can buy	a single quart	0.861337182626
+182	it	'll cost	you	0.468260963304
+182	it	'll cost	a few dollars extra	0.861337182626
+183	it	be	force	0.932481095725
+183	all	want	a peaceful world	0.861337182626
+184	Organizations	can use announced	today	0.243793821718
+184	Organizations	can use announced for	both education and enforcement efforts	0.729751202893
+184	the grants	announced	today	0.489914696722
+184	the grants	announced for	both education and enforcement efforts	0.999999
+184	enforcement , housing counseling	will promote	fair housing	0.861337182626
+184	other activities	will promote	fair housing	0.861337182626
+186	Leslie Robison	said has	very different implications	0.52377867028
+186	Leslie Robison	said has even for	those	0.0640323339191
+186	that 1 out 630 children	will develop	cancer	0.861337182626
+186	cancer	has	very different implications	0.861337182626
+186	cancer	has even for	those	0.398845798312
+187	He	calculates	his annual maintenance costs	0.861337182626
+188	Towers Financial	was formed by	one-time New York Post bidder Steven Hoffenberg	0.846956589601
+189	it	can maintain	a safety net	0.861337182626
+189	many people	had thought giving	more discouraged workers reason	0.148678475108
+190	Aftonbladet	said was interviewed by	the police	0.285547814494
+190	Aftonbladet	said was interviewed after	Sept. 11	0.729751202893
+190	Aftonbladet	made	a pilgrimage	0.861337182626
+190	Chatty	was interviewed by	the police	0.846956589601
+190	Chatty	was interviewed after	Sept. 11	0.949556375733
+190	Chatty	was interviewed made	a pilgrimage	0.179761487799
+191	she	was looking to returning to	Texas	0.685837934106
+193	this euphoria	rang	a bell of memory	0.861337182626
+194	you	want 'll find	the ocean conditions	0.412556709348
+194	you	'll find	the ocean conditions	0.861337182626
+195	the year 's two moves	have raised	prices 14 percent	0.861337182626
+195	the year 's two moves	have raised	7 percent	0.861337182626
+196	It	(R-nsubj)	Tuesday	0.932481095725
+197	Arab political emotions	have been shaped by	the region 's encounter	0.846956589601
+197	Arab political emotions	have been shaped with	French and British colonialism	0.949556375733
+197	Arab political emotions	have been shaped by	the defeat of the Arab effort	0.846956589601
+198	the drought	represents	the second setback	0.861337182626
+199	Diana	raised	our consciousness	0.861337182626
+199	people	living with	AIDS	0.690722313548
+200	Hooters Inc.	founded	the chain	0.861337182626
+200	Hooters Inc.	founded ago	14 years	0.23694779168
+200	Hooters Inc.	owns	the company trademark and related rights	0.861337182626
+201	Story Filed	have joined by	Cox Newspapers Champions of the National Endowment	0.999999
+201	Story Filed	have joined	CBS , Bravo and others	0.861337182626
+202	Charles and Charlene	looked after	each other	0.999999
+203	Today	is presented with	a real-life role reversal	0.949556375733
+203	Mackovic	is presented with	a real-life role reversal	0.949556375733
+203	a real-life role reversal	could prove painful for	his football team	0.276743142946
+204	calendar	is	a Buell dinner	0.932481095725
+204	calendar	is dinner	Monday	0.488525510685
+205	Federal Express	said has kept about	15 percent of the extra deliveries	0.729751202893
+205	it	has kept about	15 percent of the extra deliveries	0.999999
+206	Biondi	said would remain as	chairwoman of the company	0.729751202893
+206	Kay Koplovitz	would remain as	chairwoman of the company	0.999999
+207	Rubin	tours	China 's most astounding archeological treasure	0.861337182626
+207	Rubin	tours archeological treasure	the army of thousands of life-size figures	0.46349194931
+207	the army of thousands of life-size figures	protect	the graves of the Chinese emperors	0.861337182626
+208	The yield spread	was wider	70 basis points	0.281250335894
+208	The yield spread	was wider	2 basis points	0.148678475108
+209	she	traveled around	the country	0.999999
+209	she	traveled returning to	brief officials	0.728613472032
+209	ethnic clashes and human rights abuses	deter	Bosnia 's refugees	0.861337182626
+210	This quality	transcended	fashion	0.861337182626
+212	Most	were dragged off by	police officers	0.846956589601
+213	Congress	took up	the issue	0.861337182626
+213	the necessary reforms	could be enacted before	the 2002 midterm elections	0.949556375733
+214	a successful Teamsters union strike	was viewed as	a comeback	0.949556375733
+214	a successful Teamsters union strike	was viewed casts	doubt	0.261729785533
+214	the turmoil	surrounding	President Ron Carey	0.544519809246
+214	the turmoil	casts	doubt	0.861337182626
+215	The subject	was	a Lakers four-peat	0.932481095725
+215	The subject	was four-peat	a campaign	0.488525510685
+215	a campaign	begins	one week	0.861337182626
+216	it	was	ZZZZ Best	0.932481095725
+217	A physician 's diet	was due said	the improvement	0.128064667838
+217	A physician 's diet	was due to	increased volumes	0.663006753907
+217	The brewer	said	the improvement	0.861337182626
+217	increased volumes	led by	canned Draught Guinness	0.543496207298
+217	increased volumes	led by canned Guinness	an 11 percent increase	0.221515480575
+217	increased volumes	led on	a 10 percent increase	0.690722313548
+218	The number of passengers	declined	5.5 percent	0.861337182626
+218	The number of passengers	declined rose	3 percent	0.45716213623
+218	overall passenger numbers	rose	3 percent	0.861337182626
+219	it	was diagnosed by	a British pediatrician	0.846956589601
+219	no one	knows causes	it	0.52377867028
+220	It	was	an area	0.932481095725
+221	The scene	was serene with	the mayhem	0.663006753907
+221	12 North Koreans	tried	the Ecuadorian Embassy	0.489914696722
+222	health food stores	started calling	their suppliers	0.643515258155
+222	health food stores	started	yesterday	0.489914696722
+222	health food stores	started looking for	the sprouts	0.728613472032
+223	Anyone	has	himself	0.861337182626
+224	His mother	said was in	Saudi Arabia	0.729751202893
+224	he	was in	Saudi Arabia	0.999999
+225	The governor 's campaign aides	offered	a quick retort	0.861337182626
+226	The proposed accord	was reached	June 20	0.525982024862
+226	The proposed accord	was reached by	the tobacco industry and 39 states	0.846956589601
+227	the other companies	got	a boost	0.861337182626
+227	Sara Lee Corp.	gained	17 percent	0.861337182626
+227	it	will sell to raise	$ 3 billion	0.643515258155
+227	some business and cut costs	to raise	$ 3 billion	0.861337182626
+228	The announcement	came	only days	0.489914696722
+228	The announcement	came after	a visit	0.999999
+228	The announcement	marked	a significant change of strategy	0.861337182626
+228	the administration	had terminated	similar negotiations	0.861337182626
+228	similar negotiations	pursued with	North Korea	0.690722313548
+228	similar negotiations	pursued by	President Bill Clinton	0.543496207298
+228	similar negotiations	pursued left	office	0.0640323339191
+228	he	left	office	0.861337182626
+229	E. Martin Gibson	is	the company 's chairman	0.932481095725
+229	E. Martin Gibson	has served as	a director of the parent company	0.999999
+230	Her friend	was waiting for	her	0.999999
+231	European countries	tested	10 million animals	0.861337182626
+231	European countries	tested	last year	0.489914696722
+232	he	runs	his pulse and blood pressure start	0.861337182626
+232	he	forgetful in	a way	0.663006753907
+234	Deutsche BA	saw	passenger numbers	0.861337182626
+234	the first six months of 1997	helped by	a new marketing campaign	0.543496207298
+234	the first six months of 1997	helped by	the introduction of two new routes	0.543496207298
+235	Clinton aides	had been talking to	industry officials	0.999999
+236	Syrian President Hafez Assad	hopes will pressure	Israel	0.52377867028
+236	the violence	will pressure	Israel	0.861337182626
+237	He	needs	inhaled asthma medicine	0.861337182626
+237	him	breathe never had	asthma	0.52377867028
+237	he	never had	asthma	0.861337182626
+238	The foundations	are modeled on	those	0.949556375733
+238	the passage of Proposition 13	limited	property taxes	0.861337182626
+239	he	is	a finalist	0.932481095725
+240	They	make	Alabama	0.861337182626
+240	They	make Alabama	a relatively painless experience	0.46349194931
+240	you	leave starts	singing	0.52377867028
+240	Jewel	starts	singing	0.861337182626
+241	At least 170,000 civilian prisoners	died at	Majdanek	0.999999
+241	At least 170,000 civilian prisoners	died claims including	13,000 Jews	0.534588548972
+241	the suit	claims including	13,000 Jews	0.999999
+241	13,000 Jews	were murdered within	a month of Bucmys 's arrival	0.949556375733
+242	It	was	her sheer life force	0.932481095725
+242	it	is hard to believe	it	0.304466544287
+244	another tropical disturbance	will promote	locally heavy showers	0.861337182626
+245	Woodson	kept	Chiaverini	0.861337182626
+245	Woodson	made	the leaping interception	0.861337182626
+246	Have you	looked at	a Cheez Doodle	0.999999
+247	Bensonhurst	is	a vintage Italian neighborhood	0.932481095725
+247	Bensonhurst	is vintage Italian neighborhood	a place of tidy two-family brick homes	0.512258671353
+247	a place of tidy two-family brick homes	adorned with	Madonnas	0.690722313548
+247	American flags	snapping over	the front doors	0.690722313548
+248	He	remembers came to	him	0.550434092898
+248	Weinberg	came to	him	0.999999
+248	Weinberg	proposed making	similarly styled knobs and hardware	0.643515258155
+249	The money losing airline	offered	discount prices	0.861337182626
+251	You	can look up	individual carriers	0.861337182626
+254	they	fire up	the pits	0.861337182626
+254	they	smoke	the briskets	0.861337182626
+255	Ruiz	hopes will give	light heavyweight champion	0.101488848096
+255	Ruiz	hopes will give	Roy Jones Jr.	0.52377867028
+255	Ruiz	hopes will give	the idea	0.52377867028
+255	Lewis 's decision	will give	light heavyweight champion	0.468260963304
+255	Lewis 's decision	will give	Roy Jones Jr.	0.861337182626
+255	Lewis 's decision	will give Jr. to take on	Ruiz Dec. 7	0.314199657123
+255	Lewis 's decision	will give	the idea	0.861337182626
+255	the impetus	to take on	Ruiz Dec. 7	0.861337182626
+255	the winner	would fight	the winner of the WBA title	0.861337182626
+255	the winner	would fight	next spring	0.489914696722
+256	Grbac	wore	a quizzical look	0.861337182626
+256	a guy	was given	a wonderful gift	0.715756138964
+256	a guy	was given by	his worst enemy	0.846956589601
+257	Turnout	was light to	news agency reports	0.663006753907
+258	A Swiss Bank spokesman	declined did	a spokesman	0.423555309517
+259	members of Congress	have	a traditional `` defined benefit '' program	0.519874745839
+259	they	know 'll get upon	retirement	0.729751202893
+259	they	'll get upon	retirement	0.999999
+261	The Stars	have	a team incentive plan	0.861337182626
+261	a team incentive plan	awards	bonuses	0.861337182626
+262	seven frantic photographers	chased	Princess Diana	0.861337182626
+262	seven frantic photographers	chased	her companion	0.861337182626
+262	seven frantic photographers	chased companion	Dodi al-Fayed	0.56619632982
+264	Pale strawberries	soaked are lined up	colored berries	0.423555309517
+264	a water-based liquid	are lined up	colored berries	0.715756138964
+264	a balsamic vinegar-brown sugar sauce	stained	them vivid red	0.861337182626
+265	FBI Director Louis Freeh	(R-nsubj)	the Senate Judiciary Subcommittee	0.932481095725
+265	FBI Director Louis Freeh	Subcommittee are needed by	law enforcement	0.0640323339191
+265	the keys and export restrictions	are needed by	law enforcement	0.846956589601
+266	he	understands is in	sight	0.729751202893
+266	the end of his career	is in	sight	0.999999
+267	He	took to	the idea	0.999999
+267	He	has encouraged	the couple	0.861337182626
+269	white chadors	gazing at	the audience	0.999999
+270	Silver inventories	rose	454,000 ounces	0.861337182626
+270	Silver inventories	rose said in	its daily stockpile report	0.534588548972
+270	the exchanges	said in	its daily stockpile report	0.999999
+270	the exchanges	said	yesterday	0.489914696722
+270	the exchanges	said up from	a 10-month low of 140.664 million ounces	0.398845798312
+271	2.1 percent	estimated in	May	0.690722313548
+272	Lois Epstein	said achieved	a number of needed reforms	0.52377867028
+272	the legislation	achieved	a number of needed reforms	0.861337182626
+273	The country	can	benefits	0.932481095725
+273	The country	can benefits leave	relatively unskilled workers	0.243793821718
+273	joblessness	leave	relatively unskilled workers	0.861337182626
+273	joblessness	leave to fend for	themselves	0.728613472032
+274	the agent	said analyzes	the client 's policy	0.52377867028
+274	he	analyzes	the client 's policy	0.861337182626
+275	The original basis	grew of	fears of the experience	0.999999
+275	The original basis	grew controlled	all media outlets	0.423555309517
+275	totalitarian governments	controlled	all media outlets	0.861337182626
+276	He	was inspired by	Snyder 's speech	0.846956589601
+276	He	was inspired on made	a success	0.407088892868
+276	he	made	the program	0.468260963304
+276	he	made	a success	0.861337182626
+277	We	are looking for	a middle ground	0.999999
+278	Chicken	may be added if	desired	0.949556375733
+279	Hatley	created	a wild garden	0.861337182626
+279	Hatley	created wild garden complete with	long grasses , hillocks , wildflowers and pathways	0.221515480575
+279	a wild garden	turned	the underground stage	0.357618183772
+279	that	turned	the underground stage	0.861337182626
+279	that	turned may leave	a reminder	0.243793821718
+279	any of the myriad collaborators	may leave	a brilliant mark	0.861337182626
+280	part	is contained in	the lowered expectations	0.523139365787
+281	Just weeks	was entangled in	a fund-raising scandal	0.663006753907
+281	Just weeks	leaving	Carey 's eligibility	0.861337182626
+281	Just weeks	leaving	its timetable	0.861337182626
+283	They	're in	the title credits of the film	0.999999
+284	Bush	instructed	Secretary of State Colin Powell	0.861337182626
+284	Bush	instructed to begin	intensive diplomacy	0.643515258155
+284	a U.N. Security Council resolution	would amount to	an ultimatum	0.999999
+284	a U.N. Security Council resolution	would amount comply	the prospect of military attack	0.45716213623
+285	Lucas ' next big film	is	The Hulk	0.932481095725
+285	a scientific experiment	goes wrong is afflicted with	the ability	0.396348913055
+286	that	fails will liquidate	banks	0.412556709348
+286	the government	will liquidate	banks	0.861337182626
+287	El Pueblo Gallery	is located in	space E-13	0.949556375733
+288	Oakland	acquired	Michael Barrett	0.861337182626
+289	Edge Rams Offensive linemen	adds passionate about	cooking briskets	0.361389284135
+289	Texans	are passionate about	cooking briskets	0.663006753907
+290	Hoffenberg	was sentenced in	March	0.949556375733
+291	the company	said	the market leader	0.49741497263
+291	the company	said leader of	six of 11 countries	0.555767367976
+291	it	was	the market leader	0.932481095725
+291	it	was leader of	six of 11 countries	0.960704644096
+291	it	was leader of countries	Spain , Germany , Switzerland , Britain and Australia	0.462878132231
+291	six of 11 countries	make up	90 percent of the temporary employment market	0.861337182626
+292	Pat Day	agreed had hot before	the race	0.361389284135
+292	Royal Indy	had been hot	a little	0.148678475108
+292	Royal Indy	had been hot before	the race	0.663006753907
+293	3Com 's success	will boost	3Com 's sales and profit margins	0.861337182626
+294	The Rangers and Giants	represent	opposite viewpoints	0.861337182626
+295	Dell Computer	said 's adding	25 million shares	0.52377867028
+295	it	's adding	25 million shares	0.861337182626
+296	The last prisoner	was released in	1988	0.949556375733
+298	Pageant officials	do not release	the winner 's name of the preliminary interview contest	0.861337182626
+299	the same things	could have been said in	Tennessee and Pittsburgh	0.949556375733
+301	Boruchin	adds	trouble	0.49741497263
+301	The zealots	have been campaigning against	cigarettes	0.999999
+301	The zealots	(R-nsubj)	trouble	0.932481095725
+301	The zealots	trouble dangerous to	their health	0.243793821718
+301	trouble	telling	people	0.544519809246
+301	three cigars	is dangerous to	their health	0.663006753907
+302	children	suffering from	psychological disorders	0.690722313548
+304	Their pieces	sell in	the $ 20 range	0.999999
+305	a group of protesters	burned	two American flags	0.861337182626
+306	Open positions of short sales	rose	1 percent	0.861337182626
+306	figures	released	Wednesday	0.375100195172
+307	The Mariners ' oldest players	have been among	the most productive	0.999999
+307	Martinez and McLemore	have had	injury problems	0.861337182626
+308	The average yield	(R-nsubj)	this year	0.932481095725
+309	Ekman	set out was derided by	esteemed social scientists	0.192097001757
+309	he	was derided by	esteemed social scientists	0.846956589601
+310	American involvement	is	the main impulse of the hatred	0.932481095725
+310	the main impulse of the hatred	has been directed at	America	0.949556375733
+311	The troubled answers	conveyed	a similar fatalistic , slightly cranky mood	0.861337182626
+312	The findings	appear in	the current issue of The Journal of the National Cancer Institute	0.999999
+312	the researchers	say apply to	men	0.578254693581
+313	That	is n't awful in	itself	0.663006753907
+314	the company	is aware	a source of concern	0.212710809027
+314	its nonprofit status	is	a source of concern	0.932481095725
+314	its nonprofit status	is source increases	its competition	0.243793821718
+314	the testing service	increases	its competition	0.861337182626
+315	the unit	has completed	more than $ 11 billion	0.861337182626
+315	the 944 million pound securitization of Angel Trains	sold as	part of its rail privatization program	0.523139365787
+315	the U.K. government	sold as	part of its rail privatization program	0.999999
+315	the U.K. government	sold as part	the 904 million pound securitization of Annington Homes	0.511534125438
+316	He	said keeping off	her	0.643515258155
+316	He	said	part of his effort	0.457814994994
+318	One of the most disturbing factors	is has never	any formal apology	0.49741497263
+319	Story Filed	is cultural issues by	Cox Newspapers	0.960704644096
+319	Story Filed	is	the cultural issues	0.932481095725
+319	It	is	the cultural issues	0.932481095725
+319	the cultural issues	pose	the biggest challenges	0.357618183772
+319	that	pose	the biggest challenges	0.861337182626
+320	Poverty rates	were unchanged from	2000	0.663006753907
+321	Any notoriety	will promote	Latina actresses	0.861337182626
+322	they	do n't feel	the acute pain of someone	0.861337182626
+323	Such remarks	may change	its strong-dollar policy	0.861337182626
+324	Hose	contracted	inhalation anthrax	0.861337182626
+325	Police departments	launch to combat	road rage	0.643515258155
+325	massive enforcement plans	to combat	road rage	0.861337182626
+326	The company	exported	2.13 million barrels	0.861337182626
+326	The company	exported barrels	a day of crude oil	0.46349194931
+326	The company	exported	966,000 barrels	0.861337182626
+326	The company	exported barrels	a day	0.46349194931
+327	Federal Reserve Bank of Cleveland President Jerry Jordan	speaks on	money	0.999999
+328	The event	fizzled after	the bombing	0.999999
+328	the bombing	rocked	the games	0.861337182626
+329	lingering concern	leading to	some `` transportation problems and mud-slides	0.690722313548
+330	the same radiant hope	Did not accompany	the transition	0.861337182626
+330	the same radiant hope	Did not accompany from	the 19th	0.43752589502
+332	An online bidder	paid	$ 525	0.861337182626
+332	$ 525	retails at	less than $ 350 new	0.999999
+333	His memory	was operations better	a good deal	0.165521182015
+333	His memory	was operations better about	White House management of the DNC	0.26701003011
+333	His memory	was	its fund-raising operations	0.932481095725
+334	The company	is based on	the work of Dr. Mark T. Keating	0.949556375733
+334	the work of Dr. Mark T. Keating	studies	regeneration	0.861337182626
+335	Israel	has said will not pull of	southern Lebanon	0.729751202893
+335	it	will not pull of	southern Lebanon	0.999999
+335	it	will not pull gains	a peace treaty	0.423555309517
+335	it	gains	a peace treaty	0.861337182626
+336	The finding	revealed not	bay trees	0.861337182626
+336	The finding	revealed trees	not oak trees	0.46349194931
+337	Little	said left	Ramirez	0.52377867028
+337	he	left	Ramirez	0.861337182626
+337	he	left apologized to	everybody	0.550434092898
+337	the slugger	apologized to	everybody	0.999999
+338	The Cardinals	considered drafting	Purdue fullback Mike Alstott	0.643515258155
+339	He	paid	$ 350,000	0.861337182626
+339	He	paid remodeled	it	0.45716213623
+340	he	's been in	some time	0.949556375733
+341	part of their	reforming of	state-owned enterprises	0.999999
+341	those workers	do n't have	a safety net ''	0.861337182626
+341	those workers	do n't have much	a wage	0.23694779168
+342	Investigators	are looking into misled	investors	0.543496207298
+342	executives	misled	investors	0.861337182626
+344	Special-interest groups	publish using	road rage	0.45716213623
+344	studies	using	road rage	0.861337182626
+344	studies	using to make	the case	0.643515258155
+344	issue news releases	using	road rage	0.861337182626
+344	issue news releases	using to make	the case	0.643515258155
+345	the Revolution	been involved in	an 11-game losing streak	0.690722313548
+347	Army	jumped to	a 7-0 lead	0.999999
+347	Army	jumped covering	66 yards	0.212710809027
+347	Army	jumped covering in	a 14-play drive	0.728613472032
+347	a 14-play drive	culminated in	a 1-yard leap	0.999999
+348	Baker Hughes Inc.	releases	its weekly survey of the number of active oil and gas drilling rigs	0.861337182626
+349	Only Nikko Securities Co.	has	the same top executives	0.861337182626
+349	it	started	the year	0.489914696722
+350	he	asserted could	a laboratory	0.49741497263
+350	Iraq	be could	a laboratory	0.932481095725
+350	Iraq	could be laboratory furnishing	them	0.423555309517
+351	Reilly	said	very early days	0.49741497263
+351	It	's	very early days	0.932481095725
+351	It	's days to count on	the success of brands	0.540088931156
+351	the success of brands	were launched	just this summer	0.525982024862
+352	Some city tests of the water	have found	small traces of crude oil	0.861337182626
+352	Jeff Davis	supervised	a water-pipe replacement	0.861337182626
+352	Ooze	was coming of	the side	0.999999
+353	that	was	the case	0.932481095725
+354	He	used	T-bone	0.861337182626
+354	He	carved	the steak	0.861337182626
+354	He	carved steak off	the bone	0.908017458852
+354	He	carved should cook	the steak	0.423555309517
+354	it	was cooked	al sangue	0.715756138964
+354	you	should cook	the steak	0.861337182626
+355	they	bumped	some distance	0.861337182626
+356	Red Sox manager Grady Little	kept	Ramirez	0.861337182626
+356	Red Sox manager Grady Little	admitted should have benched	him	0.52377867028
+356	he	should have benched	him	0.861337182626
+357	some	prompting from	his own earlier deposition	0.999999
+357	Fowler	acknowledged had	the strongest voice	0.52377867028
+357	Harold Ickes	was	deputy chief of staff	0.932481095725
+357	Harold Ickes	had	the strongest voice	0.861337182626
+358	A Georgia inventor	has won	a patent	0.861337182626
+358	a method of regiving items	ordered	online	0.544519809246
+359	Michigan Stadium	is	the largest	0.932481095725
+359	Michigan Stadium	is largest in	the nation	0.663006753907
+360	the agent	said advises	clients	0.52377867028
+360	he	advises	clients	0.861337182626
+360	clients	are at	fault	0.999999
+361	The latest price rise	was makers	the second	0.23694779168
+361	The latest price rise	was	the cigarette makers	0.932481095725
+361	The latest price rise	was makers	this year	0.488525510685
+362	It	went from	testing 219	0.999999
+362	It	went	last year	0.489914696722
+363	Mills	stressed not	a reaction	0.49741497263
+363	the release of test results	were not	a reaction	0.932481095725
+363	his plans	were not	a reaction	0.932481095725
+365	She	was anxious	a little	0.148678475108
+366	That creature	was in	turn	0.999999
+366	turn	named for	the mythical multiheaded serpent	0.690722313548
+366	the mythical multiheaded serpent	(R-nsubj)	new heads	0.932481095725
+367	Hydra	is named after	a pond-dwelling creature	0.949556375733
+367	a pond-dwelling creature	can grow	two wholes	0.861337182626
+368	other studies	point to	fetal exposure	0.999999
+369	one or two new distributors	signing on	every week	0.999999
+369	one or two new distributors	signing with	busy planning	0.165521182015
+369	the Weinbergs	are	busy planning	0.932481095725
+369	the Weinbergs	are busy planning to expand into	clothing hooks	0.379758953586
+370	Hevesi	said affects	the level of return	0.45716213623
+370	the performance of the broader markets	affects	the level of return	0.861337182626
+371	the IMF	said cut in	half its growth estimate	0.729751202893
+371	the IMF	said cut	this year	0.243793821718
+371	it	cut in	half its growth estimate	0.999999
+371	it	cut	this year	0.489914696722
+372	he	said spend	an estimated $ 11 billion a year	0.52377867028
+372	foreign students	spend	an estimated $ 11 billion a year	0.861337182626
+372	items	ranging from	jeans	0.690722313548
+373	starters Torry Holt	might be	the best and most explosive tandem	0.932481095725
+373	Isaac Bruce	might be	the best and most explosive tandem	0.932481095725
+374	The Bank of Japan	said in	its quarterly report	0.999999
+374	The Bank of Japan	said in quarterly report	the `` josei handan , ''	0.643428066898
+374	it	expects to grow about	3.0 percent	0.728613472032
+374	M2 + CDs	to grow about	3.0 percent	0.999999
+375	Another survivor	expressed	frustration	0.861337182626
+376	the census	is expected since	Stalin 's forced relocations	0.949556375733
+376	the steady decline	due to	ill health	0.663006753907
+376	the steady decline	due to ill health	migration	0.345282669813
+376	demographers	call echo of	war	0.729751202893
+376	the	echo of	war	0.999999
+380	MTV	will decide to continue	Austin Stories	0.52377867028
+382	the statement	released by	Mar ` ie	0.543496207298
+382	the statement	addressed	these concerns	0.861337182626
+383	The 12-month target price	is	HK$ 51.00	0.932481095725
+384	The exchange	may permit to trade in	the market	0.728613472032
+384	growers	to trade in	the market	0.999999
+384	the 12 market makers	authorized by	the exchange	0.543496207298
+385	Those close	say lost	support	0.52377867028
+385	Those close	say lost	last year	0.243793821718
+385	Tigrett	lost	support	0.861337182626
+385	Tigrett	lost	last year	0.489914696722
+385	Tigrett	lost took	a big hit	0.423555309517
+385	the company	took	a big hit	0.861337182626
+386	Ratner	has been	one of the most aggressive builders	0.932481095725
+386	he	needs	government approval	0.861337182626
+387	They	feel	nothing	0.861337182626
+388	Steve Forbes	was running for	president	0.999999
+388	Steve Forbes	was running did n't talk about	the rights of the unborn	0.396348913055
+388	he	did n't talk about	the rights of the unborn	0.999999
+389	You	do n't have	a computer	0.861337182626
+391	smaller stocks	rallied pushing	the Russell and Nasdaq	0.643515258155
+393	a group of Amherst College students	held	a patriotism rally	0.861337182626
+393	a group of Amherst College students	held reciting	the Pledge of Allegiance	0.643515258155
+394	Koizumi	have come under	harsh criticism	0.999999
+394	his foreign ministry	have come under	harsh criticism	0.999999
+395	They	litter	the road	0.202977696191
+395	the residents of a small Cuban town	called	Guantanamera	0.544519809246
+396	That sharp drop	was mirrored in	follow-up interviews	0.949556375733
+397	The large multinational companies	had performed	this year	0.489914696722
+397	The large multinational companies	had performed peaked on	Aug. 6	0.550434092898
+397	those averages	peaked on	Aug. 6	0.999999
+398	the dead princess	is being hailed struck down in	a battle	0.426340820968
+398	a visionary	struck down in	a battle	0.999999
+399	You	have	all but one of the ingredients	0.861337182626
+399	You	have	:10941066 7:722 d table salt	0.861337182626
+400	Volkswagen sales	peaked at	293,000	0.999999
+400	Volkswagen sales	peaked dropped to	49,533	0.578254693581
+400	Volkswagen sales	peaked climbed to	135,907	0.578254693581
+401	Lucas	plays	Banner 's nemesis	0.861337182626
+401	Lucas	plays nemesis	Maj	0.56619632982
+402	people	stood in	two-hour lines	0.999999
+402	it	seemed was propping up	some dubious prices	0.52377867028
+402	the Enron connection	was propping up	some dubious prices	0.861337182626
+407	I	do n't know said	it	0.423555309517
+407	I	said	it	0.861337182626
+407	the secretary	turns to	me	0.999999
+407	you	've got	a point	0.861337182626
+408	it	has	few photos	0.861337182626
+408	those	illustrate	concepts	0.861337182626
+409	The rules	were written to encourage	diversity of voices	0.343056558949
+409	The rules	were written to prevent	the biggest companies	0.343056558949
+411	U.S. officials	say has done since	April	0.729751202893
+411	Japan	has done since	April	0.999999
+412	the number of possible buyers	has dwindled diminishing	the value of those assets	0.643515258155
+413	senior American intelligence officials	have said have drifted to	Iraq	0.729751202893
+413	senior American intelligence officials	joined	ranks	0.861337182626
+413	some Iraqi fighters	opposed	the United States	0.861337182626
+413	some Iraqi fighters	have drifted to	Iraq	0.999999
+413	some Iraqi fighters	have drifted joined	ranks	0.325762119452
+415	Mar ` ie	said will encourage	the merger of insolvent banks	0.52377867028
+415	the government	will encourage	the merger of insolvent banks	0.861337182626
+416	The end-of-the-month deadlines	are	a result of the landmark Immigration Reform Act	0.932481095725
+416	a result of the landmark Immigration Reform Act	passed by	Congress	0.543496207298
+416	a result of the landmark Immigration Reform Act	passed by Congress	last year	0.128064667838
+417	nine games	matching	a season	0.544519809246
+419	the waves	were small could n't provide	sufficient lift	0.148678475108
+419	they	could n't provide	sufficient lift	0.861337182626
+420	She	knew is filled with	people	0.729751202893
+420	the world	is filled with	people	0.949556375733
+420	people	talk about	virtue	0.999999
+420	people	has	a much shorter supply of those	0.861337182626
+420	a much shorter supply of those	act on	it	0.999999
+423	Seagram shares	rose	C$ 0.25	0.468260963304
+423	Seagram shares	rose	Toronto trading	0.861337182626
+425	Helou	joins	a number of top writers	0.861337182626
+425	the Mediterranean	(R-nsubj)	the focus of their studies	0.932481095725
+426	he	gives	blow-by-blow accounts of encounters Oppenheimer	0.468260963304
+426	he	gives	his homes and offices	0.861337182626
+426	he	gives homes of	the machinations of Lewis Strauss	0.908017458852
+426	him	removed from	power	0.999999
+427	Dr. Norman J. Silver	was winding down	his orthopedic surgery practice	0.861337182626
+428	They	defeated	the defending champion	0.861337182626
+428	They	defeated	Philadelphia Eagles handily	0.519874745839
+429	Two other suspects	were arrested	Wednesday afternoon	0.525982024862
+429	Brian Jay Robbins	were arrested	Wednesday afternoon	0.525982024862
+429	28	were arrested	Wednesday afternoon	0.525982024862
+429	Ronald Eugene Timms	were arrested	Wednesday afternoon	0.525982024862
+430	an excuse	Are to haul out	the stars	0.861337182626
+430	finery	given to	them	0.690722313548
+430	finery	given by	designers	0.543496207298
+431	Some historians	have disputed	claims of an organized genocide	0.861337182626
+431	the Turkish government	have disputed	claims of an organized genocide	0.861337182626
+432	Those very same men	dismissed	her	0.861337182626
+432	Those very same men	are seen in	TV studios	0.949556375733
+432	Those very same men	are seen regaling	us	0.514750745071
+434	Strong wind gusts	will	offshore Tuesday	0.932481095725
+434	Strong wind gusts	will offshore Tuesday will reach	the immediate coast	0.243793821718
+434	most	will	offshore Tuesday	0.932481095725
+434	most	will offshore Tuesday will reach	the immediate coast	0.243793821718
+434	a few squalls	will reach	the immediate coast	0.861337182626
+435	he	wants	as much public input and discussion	0.861337182626
+436	We	moved	boxes and bags	0.861337182626
+436	We	moved	favorite shirts and CDs	0.861337182626
+436	We	moved	computer	0.861337182626
+436	We	moved	new socks	0.861337182626
+436	We	moved	notebooks	0.861337182626
+436	We	moved	tennis racket	0.861337182626
+436	We	moved	shoebox	0.861337182626
+436	boxes and bags	stuffed with	emergency chocolate cupcakes	0.690722313548
+436	favorite shirts and CDs	stuffed with	emergency chocolate cupcakes	0.690722313548
+436	computer	stuffed with	emergency chocolate cupcakes	0.690722313548
+436	new socks	stuffed with	emergency chocolate cupcakes	0.690722313548
+436	notebooks	stuffed with	emergency chocolate cupcakes	0.690722313548
+436	tennis racket	stuffed with	emergency chocolate cupcakes	0.690722313548
+436	shoebox	stuffed with	emergency chocolate cupcakes	0.690722313548
+436	a microscopically small dorm room	would be inhabited by	a completely unknown quantity	0.379758953586
+436	a microscopically small dorm room	would be inhabited by	the other half of which	0.379758953586
+436	a microscopically small dorm room	would be inhabited by other half of	`` Bye , Mom	0.101488848096
+436	half of which	would be inhabited by	a completely unknown quantity	0.846956589601
+436	half of which	would be inhabited by	the other half of which	0.846956589601
+436	half of which	would be inhabited by other half of	`` Bye , Mom	0.572045063148
+436	the other half of which	would be inhabited by	a quantity	0.846956589601
+436	I	ca n't remember	any time	0.861337182626
+436	I	ca n't remember	the one	0.861337182626
+436	any time	passing at	all	0.690722313548
+436	the one	draws in	today	0.523139365787
+436	he	draws in	today	0.999999
+437	the lawyers	dismissed by	a judge	0.543496207298
+438	White House aides	say to offer	his fast-track bill	0.643515258155
+438	White House aides	say to offer sometime during	the second week of September	0.148678475108
+438	the Democratic president plans	to offer	his fast-track bill	0.861337182626
+438	the Democratic president plans	to offer sometime during	the second week of September	0.398845798312
+439	Today 's average yield	was	3.615 percent	0.932481095725
+439	Today 's average yield	was percent up from	3.561 percent	0.26701003011
+440	Hot-rolled and cold-rolled sheet	has	a smoother finish	0.861337182626
+440	Hot-rolled and cold-rolled sheet	account about	half of all U.S. steel shipments	0.960704644096
+441	I	got	the package	0.861337182626
+441	I	got	the next day	0.489914696722
+442	The clamor	recalled had been for	some publications	0.729751202893
+442	her image	had been for	some publications	0.999999
+443	the patent	issued to	William Dodd	0.690722313548
+443	a present	could become	a virtual gift	0.932481095725
+443	a present	could become virtual gift	only ligHtli touches	0.488525510685
+444	the secretary	tells	me	0.468260963304
+444	the secretary	tells	a second one	0.861337182626
+444	a second one	hit	the towers	0.357618183772
+444	I	said must	an Arab	0.49741497263
+444	It	must be	an Arab	0.932481095725
+446	Traina	make	$ 123,000	0.861337182626
+446	Traina	make	a year	0.489914696722
+446	three other trustees	make	$ 123,000	0.861337182626
+446	three other trustees	make	a year	0.489914696722
+447	Fox , ABC and UPN	are offering	the same shows	0.861337182626
+447	they	did ago	a year	0.23694779168
+449	Some of that money	is earmarked for	the new Traina Center	0.949556375733
+450	I	was diagnosed with	HIV	0.949556375733
+451	You	might not understand	all	0.558650984325
+451	it	(R-nsubj)	all	0.932481095725
+453	Officials	known for	safe design	0.690722313548
+453	Officials	acknowledge	no match	0.49741497263
+453	their cars	are	no match	0.932481095725
+454	Sacks	wrote of observed	the brothers	0.543496207298
+454	Sacks	wrote of observed	one day	0.0640323339191
+454	he	observed	the brothers	0.861337182626
+454	he	observed	one day	0.489914696722
+454	he	observed sat in	apparent rapture	0.550434092898
+454	they	sat in	apparent rapture	0.999999
+454	they	sat	six-figure primes	0.558650984325
+455	Mary McCarty	writes for	the Dayton Daily News	0.999999
+456	You	should go	online	0.861337182626
+457	One of life 's simple pleasures	is guessing 'll walk with	the VeeHee	0.729751202893
+459	these developments	are	a long way	0.304466544287
+459	the tipping point	is	a long way	0.932481095725
+460	Thailand	is bracing for	growth of only 3 percent	0.999999
+460	the Philippines	expects	gross domestic product	0.861337182626
+460	the Philippines	expects gross domestic product to grow	5.55 percent	0.314199657123
+460	Poor 's	expects to grow	7 percent	0.643515258155
+460	Malaysia	to grow	7 percent	0.861337182626
+461	Company	followed	suit	0.861337182626
+461	Company	followed posed	new obstacles	0.423555309517
+461	heightened security	posed	new obstacles	0.861337182626
+462	speed	is	your life	0.932481095725
+463	That carpet cleaning company	was started by	a 16-year old	0.846956589601
+463	who	wound up with	with stock worth	0.999999
+464	striking offshore oil workers	forced to shut down	its	0.643515258155
+464	striking offshore oil workers	forced to shut down	40,000 barrel-a-day Yme oil field	0.212710809027
+464	state-owned oil company Statoil	to shut down	its	0.861337182626
+464	state-owned oil company Statoil	to shut down	40,000 barrel-a-day Yme oil field	0.519874745839
+465	The other five	will be allowed to return	home	0.165521182015
+466	Lucas	stopped in	Atlanta	0.999999
+467	Philip Morris	would obtain	protection	0.861337182626
+467	RJR Nabisco Holdings Corp.	would obtain	protection	0.861337182626
+467	other tobacco companies	would obtain	protection	0.861337182626
+467	future class-action lawsuits	have threatened	the industry 's well-being	0.861337182626
+468	Or	balanced on	the tip of the tongue	0.999999
+469	Alea and Tabio	use	political strife	0.861337182626
+469	which	to place	the characters	0.861337182626
+470	The dollar	declines express	concern	0.423555309517
+470	U.S. Treasury officials	express	concern	0.861337182626
+470	Japan	may be trying to boost	its economy	0.0640323339191
+472	he	's driven by	the prospect of rematches	0.846956589601
+474	you	have 're running	a hot system	0.323004328671
+474	you	're running	a hot system	0.861337182626
+475	I	asked	the Armenian native	0.861337182626
+475	I	asked poked	fun	0.423555309517
+475	the neighborhood kids or anybody else	poked	fun	0.861337182626
+475	the sign	is	a Bart Simpson dream	0.932481095725
+476	Ariel	bought	its shares	0.861337182626
+477	They	add	barbecue sauces	0.861337182626
+477	barbecue sauces	developed with	Texas taste panels	0.690722313548
+478	PUSHED	TO	THE WALL	0.932481095725
+478	PUSHED	TO WALL	ISRAEL MIGHT FIRE NUKES	0.512258671353
+478	PUSHED	TO WALL earned	the respect of analysts and investors	0.359522975598
+478	That	earned	him	0.468260963304
+478	That	earned	the respect of analysts and investors	0.861337182626
+480	searches of two warehouses	owned by	the firms	0.543496207298
+480	searches of two warehouses	owned by	the office of the firms ' tax adviser	0.543496207298
+480	searches of two warehouses	owned in	Hamburg	0.690722313548
+481	The Treasury Department	is responsible for	U.S. foreign exchange policy	0.663006753907
+483	Television pictures	showed	police officers	0.861337182626
+483	Television pictures	showed climbing over	the roof	0.578254693581
+483	Television pictures	showed entering	the offices of two related companies	0.45716213623
+483	Television pictures	showed	35 miles	0.519874745839
+484	Sprint Corp. 's recent disclosure	helped send	the company 's PCS tracking stock	0.643515258155
+484	it	expects	a net loss	0.861337182626
+484	it	expects	this quarter	0.489914696722
+485	side air bags	to provide	more protection	0.861337182626
+486	The average yield	was	4.167 percent	0.932481095725
+486	The average yield	was percent up from	4.165 percent	0.26701003011
+487	It	has	outstanding stock options	0.861337182626
+487	outstanding stock options	could swell	its roster of shares	0.861337182626
+487	outstanding stock options	reduce	earnings	0.861337182626
+488	we	beat	City Hall	0.861337182626
+489	the university 's president	retired in	2000	0.999999
+489	the university 's president	retired moved on	the board of the George I. Alden Trust	0.396348913055
+489	he	moved right into	a spot	0.398845798312
+489	he	moved on	the board of the George I. Alden Trust	0.999999
+489	a $ 135 million foundation	's run of	Fletcher	0.949556375733
+489	a $ 135 million foundation	has	a strong Clark supporter	0.405955392382
+489	Tilton 's offices	has	a strong Clark supporter	0.405955392382
+489	which	has been	a strong Clark supporter	0.932481095725
+490	July 's exports	surpassed	June 's total of $ 24.39 billion	0.861337182626
+491	Its commercial spine	is	chock full of pork and pasta stores	0.932481095725
+491	Its commercial spine	(R-nsubj)	the Italian colors of green , white and red	0.932481095725
+492	Hall and Sax	approached from	the same direction	0.999999
+493	Musharraf	defended	his government 's decision	0.861337182626
+493	Musharraf	defended decision to ban	Bhutto	0.314199657123
+494	The demoted starter	had not pitched in	a week	0.999999
+494	The demoted starter	showed	no signs of the long layoff	0.861337182626
+495	McDaniel	postponed	ruling	0.861337182626
+496	other factors	can affect	quality of life	0.861337182626
+497	That	's	enough	0.932481095725
+497	That	's enough of	a difference	0.250167323204
+499	The agency	suspended	imposition of the $ 100,000-per-voyage fines	0.861337182626
